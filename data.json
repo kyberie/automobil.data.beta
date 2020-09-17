@@ -12,5 +12,16 @@
 "ANDROID_UNSUPPORTED_VERSION":0,
 "ANDROID_LAST_VERSION":0,
 "ANDROID_LAST_SUPPORTED_VERSION":0
-}
+},
+"callcenters_insia":[
+        {
+            "country_abbr": "CZ",
+            "title": "Kontaktní centrum",
+            "subtitle": "INSIA a.s.",
+            "address": "Atrium Flora - vchod A\nVinohradská 2828/151\n130 00 Praha 3",
+            "phone": "245 003 111",
+            "email": "insia@insia.com",
+            "web_url": "https://www.insia.cz/"
+        }
+    ]
 }
