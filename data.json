@@ -1,10 +1,4 @@
 {
-"lists":{
-"SECURITY_TYPES":["signed_glass","mechanical","electronic","satelite","immobilizer"],
-"FEATURES":["combi","awd","leather_seats","panoramic_roof","parking_assistance","auto_transmission"],
-"VEHICLE_TYPES":["car","van_mod","van","truck","big_truck","motorcycle","trailer","tractor","working_machine"],
-"USAGES":["private","business","rental","driving_school","taxi","vip","hazard","veteran"]
-},
 "version":{
 "IOS_UNSUPPORTED_VERSION":0,
 "IOS_LAST_VERSION":0,
