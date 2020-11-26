@@ -164,11 +164,6 @@
 		"order":310,
 		"deleted":false
 		},{
-		"id":3339,
-		"name":"FORMAN;VAN",
-		"order":320,
-		"deleted":false
-		},{
 		"id":3340,
 		"name":"GARDE",
 		"order":330,
@@ -10921,7 +10916,7 @@
 		"deleted":false
 		},{
 		"id":2876,
-		"name":"AUDI 80;AVANT",
+		"name":"AUDI 80 AVANT",
 		"order":450,
 		"deleted":false
 		},{
@@ -11885,7 +11880,7 @@
 		"deleted":false
 		},{
 		"id":2752,
-		"name":"MURANO;3,5 V6",
+		"name":"MURANO 3,5 V6",
 		"order":600,
 		"deleted":false
 		},{
@@ -15520,8 +15515,8 @@
 		"deleted":false
 		}
 	]},{
-	"name":"BüRSTNER",
-	"logo":"bürstner.png",
+	"name":"BÜRSTNER",
+	"logo":"burstner.png",
 	"order":730,
 	"deleted":false,
 	"models":[
@@ -16275,8 +16270,8 @@
 		"deleted":false
 		}
 	]},{
-	"name":"ERNST AUWäRTER",
-	"logo":"ernst-auwärter.png",
+	"name":"ERNST AUWÄRTER",
+	"logo":"ernst-auwarter.png",
 	"order":880,
 	"deleted":false,
 	"models":[
@@ -16765,7 +16760,7 @@
 		"deleted":false
 		}
 	]},{
-	"name":"CHEVAL LIBERTé",
+	"name":"CHEVAL LIBERTÉ",
 	"logo":"cheval-liberte.png",
 	"order":1080,
 	"deleted":false,
@@ -18459,7 +18454,7 @@
 		}
 	]},{
 	"name":"MOSKVIČ",
-	"logo":"moskviČ.png",
+	"logo":"moskvic.png",
 	"order":1470,
 	"deleted":false,
 	"models":[
@@ -18772,8 +18767,8 @@
 		"deleted":false
 		}
 	]},{
-	"name":"POBěDA",
-	"logo":"poběda.png",
+	"name":"POBĚDA",
+	"logo":"pobeda.png",
 	"order":1590,
 	"deleted":false,
 	"models":[
