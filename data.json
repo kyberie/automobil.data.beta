@@ -39,6 +39,10 @@
       "country_abbr": "AT",
       "order": 40,
       "url_buy": "https://shop.asfinag.at/cs"
+    },
+    {
+      "country_abbr": "UNDEFINED",
+      "order": 2000
     }
   ],	
 "stk":[
