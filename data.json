@@ -32,13 +32,33 @@
       "coupon_url_verification": "https://eznamka.sk/selfcare/modification/select/select-vignettes/?operation=Check"
     },
     {
-      "country_abbr": "RO",
-      "order": 30
-    },
-    {
       "country_abbr": "AT",
       "order": 40,
-      "coupon_url_buy": "https://shop.asfinag.at/cs"
+      "coupon_url_buy": "https://shop.asfinag.at"
+    },
+	{
+      "country_abbr": "HU",
+      "order": 50,
+      "coupon_url_buy": "https://ematrica.nemzetiutdij.hu/"
+    },
+	{
+      "country_abbr": "SI",
+      "order": 60
+    },
+	{
+      "country_abbr": "RO",
+      "order": 70,
+	  "coupon_url_buy": "http://www.roviniete.ro/en/vignette"
+    },
+	{
+      "country_abbr": "CH",
+      "order": 80
+    },
+	{
+      "country_abbr": "BG",
+      "order": 90,
+	  "coupon_url_buy": "https://web.bgtoll.bg/",
+	  "coupon_url_verification": "https://web.bgtoll.bg/TollProduct"
     },
     {
       "country_abbr": "UNDEFINED",
