@@ -1,7 +1,7 @@
 {
 "version":{
 "IOS_UNSUPPORTED_VERSION":0,
-"IOS_LAST_VERSION":5,
+"IOS_LAST_VERSION":24,
 "IOS_LAST_SUPPORTED_VERSION":0,
 "ANDROID_UNSUPPORTED_VERSION":1,
 "ANDROID_LAST_VERSION":7,
@@ -16,6 +16,15 @@
             "phone": "245 003 111",
             "email": "insia@insia.com",
             "web_url": "https://www.insia.cz/"
+        },
+		{
+            "country_abbr": "SK",
+            "title": "Kontaktné centrum",
+            "subtitle": "INSIA a.s.",
+            "address": "Átrium J.Jánošíka\nMečiarova 666\n567 89 Bratislava",
+            "phone": "+421 666 666 666",
+            "email": "insia@insia.com",
+            "web_url": "https://www.insia.sk/"
         }
     ],
 "countries": [
