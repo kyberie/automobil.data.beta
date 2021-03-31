@@ -1,4 +1,4 @@
-{
+{"json_version":1,
 "version":{
 "IOS_UNSUPPORTED_VERSION":0,
 "IOS_LAST_VERSION":24,
@@ -7963,4 +7963,4 @@
 		"latitude":48.62276800
 	}
 ]
-}
+} 
