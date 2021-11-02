@@ -38,7 +38,8 @@
       "country_abbr": "CZ",
       "order": 10,
       "coupon_url_buy": "https://edalnice.cz/jednoduchy-nakup/index.html#/eshop/order",
-      "coupon_url_administration": "https://edalnice.cz/sprava-zakoupene-znamky/index.html#/charge_management"
+      "coupon_url_administration": "https://edalnice.cz/sprava-zakoupene-znamky/index.html#/charge_management",
+	  "coupon_url_verification": "https://edalnice.cz/#/validation"
     },
     {
       "country_abbr": "SK",
