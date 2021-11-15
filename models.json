@@ -5,7 +5,7 @@
 	{
 	"name":"ŠKODA",
 	"logo":"skoda.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":10,
 	"deleted":false,
 	"models":[
@@ -308,7 +308,7 @@
 	]},{
 	"name":"HYUNDAI",
 	"logo":"hyundai.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":20,
 	"deleted":false,
 	"models":[
@@ -631,7 +631,7 @@
 	]},{
 	"name":"VOLKSWAGEN",
 	"logo":"volkswagen.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":30,
 	"deleted":false,
 	"models":[
@@ -1179,7 +1179,7 @@
 	]},{
 	"name":"DACIA",
 	"logo":"dacia.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":40,
 	"deleted":false,
 	"models":[
@@ -1297,7 +1297,7 @@
 	]},{
 	"name":"PEUGEOT",
 	"logo":"peugeot.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":50,
 	"deleted":false,
 	"models":[
@@ -1790,7 +1790,7 @@
 	]},{
 	"name":"TOYOTA",
 	"logo":"toyota.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":60,
 	"deleted":false,
 	"models":[
@@ -2228,7 +2228,7 @@
 	]},{
 	"name":"RENAULT",
 	"logo":"renault.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":70,
 	"deleted":false,
 	"models":[
@@ -2821,7 +2821,7 @@
 	]},{
 	"name":"KIA",
 	"logo":"kia.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":80,
 	"deleted":false,
 	"models":[
@@ -3089,7 +3089,7 @@
 	]},{
 	"name":"FORD",
 	"logo":"ford.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":90,
 	"deleted":false,
 	"models":[
@@ -3597,7 +3597,7 @@
 	]},{
 	"name":"CITROEN",
 	"logo":"citroen.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":100,
 	"deleted":false,
 	"models":[
@@ -4010,7 +4010,7 @@
 	]},{
 	"name":"MERCEDES",
 	"logo":"mercedes.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":110,
 	"deleted":false,
 	"models":[
@@ -6491,7 +6491,7 @@
 	]},{
 	"name":"OPEL",
 	"logo":"opel.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":120,
 	"deleted":false,
 	"models":[
@@ -7034,7 +7034,7 @@
 	]},{
 	"name":"SUZUKI",
 	"logo":"suzuki.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":130,
 	"deleted":false,
 	"models":[
@@ -7187,7 +7187,7 @@
 	]},{
 	"name":"SEAT",
 	"logo":"seat.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":140,
 	"deleted":false,
 	"models":[
@@ -7365,7 +7365,7 @@
 	]},{
 	"name":"MAZDA",
 	"logo":"mazda.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":150,
 	"deleted":false,
 	"models":[
@@ -7628,7 +7628,7 @@
 	]},{
 	"name":"BMW",
 	"logo":"bmw.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":160,
 	"deleted":false,
 	"models":[
@@ -9661,7 +9661,7 @@
 	]},{
 	"name":"MITSUBISHI",
 	"logo":"mitsubishi.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":170,
 	"deleted":false,
 	"models":[
@@ -9999,7 +9999,7 @@
 	]},{
 	"name":"HONDA",
 	"logo":"honda.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":180,
 	"deleted":false,
 	"models":[
@@ -10222,7 +10222,7 @@
 	]},{
 	"name":"FIAT",
 	"logo":"fiat.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":190,
 	"deleted":false,
 	"models":[
@@ -10710,7 +10710,7 @@
 	]},{
 	"name":"AUDI",
 	"logo":"audi.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":200,
 	"deleted":false,
 	"models":[
@@ -11228,7 +11228,7 @@
 	]},{
 	"name":"VOLVO",
 	"logo":"volvo.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":210,
 	"deleted":false,
 	"models":[
@@ -11601,7 +11601,7 @@
 	]},{
 	"name":"NISSAN",
 	"logo":"nissan.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":220,
 	"deleted":false,
 	"models":[
@@ -12184,7 +12184,7 @@
 	]},{
 	"name":"SUBARU",
 	"logo":"subaru.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":230,
 	"deleted":false,
 	"models":[
@@ -12392,7 +12392,7 @@
 	]},{
 	"name":"LAND ROVER",
 	"logo":"land-rover.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":240,
 	"deleted":false,
 	"models":[
@@ -12495,7 +12495,7 @@
 	]},{
 	"name":"JEEP",
 	"logo":"jeep.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":250,
 	"deleted":false,
 	"models":[
@@ -12548,7 +12548,7 @@
 	]},{
 	"name":"LEXUS",
 	"logo":"lexus.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":260,
 	"deleted":false,
 	"models":[
@@ -12681,7 +12681,7 @@
 	]},{
 	"name":"MINI",
 	"logo":"mini.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":270,
 	"deleted":false,
 	"models":[
@@ -12924,7 +12924,7 @@
 	]},{
 	"name":"PORSCHE",
 	"logo":"porsche.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":280,
 	"deleted":false,
 	"models":[
@@ -13072,7 +13072,7 @@
 	]},{
 	"name":"ALFA ROMEO",
 	"logo":"alfa-romeo.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":290,
 	"deleted":false,
 	"models":[
@@ -13265,7 +13265,7 @@
 	]},{
 	"name":"TESLA",
 	"logo":"tesla.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":300,
 	"deleted":false,
 	"models":[
@@ -13288,7 +13288,7 @@
 	]},{
 	"name":"JAGUAR",
 	"logo":"jaguar.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":310,
 	"deleted":false,
 	"models":[
@@ -13471,7 +13471,7 @@
 	]},{
 	"name":"SMART",
 	"logo":"smart.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":320,
 	"deleted":false,
 	"models":[
@@ -13544,7 +13544,7 @@
 	]},{
 	"name":"DS",
 	"logo":"ds.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":330,
 	"deleted":false,
 	"models":[
@@ -13597,7 +13597,7 @@
 	]},{
 	"name":"LADA",
 	"logo":"lada.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":340,
 	"deleted":false,
 	"models":[
@@ -13750,7 +13750,7 @@
 	]},{
 	"name":"FERRARI",
 	"logo":"ferrari.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":350,
 	"deleted":false,
 	"models":[
@@ -13913,7 +13913,7 @@
 	]},{
 	"name":"DODGE",
 	"logo":"dodge.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":360,
 	"deleted":false,
 	"models":[
@@ -14026,7 +14026,7 @@
 	]},{
 	"name":"SSANGYONG",
 	"logo":"ssangyong.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":370,
 	"deleted":false,
 	"models":[
@@ -14109,7 +14109,7 @@
 	]},{
 	"name":"MASERATI",
 	"logo":"maserati.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":380,
 	"deleted":false,
 	"models":[
@@ -14157,7 +14157,7 @@
 	]},{
 	"name":"BENTLEY",
 	"logo":"bentley.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":390,
 	"deleted":false,
 	"models":[
@@ -14235,7 +14235,7 @@
 	]},{
 	"name":"CHEVROLET",
 	"logo":"chevrolet.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":400,
 	"deleted":false,
 	"models":[
@@ -14518,7 +14518,7 @@
 	]},{
 	"name":"ABARTH",
 	"logo":"abarth.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":410,
 	"deleted":false,
 	"models":[
@@ -14576,7 +14576,7 @@
 	]},{
 	"name":"ACURA",
 	"logo":"acura.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":420,
 	"deleted":false,
 	"models":[
@@ -14614,7 +14614,7 @@
 	]},{
 	"name":"ADRIA",
 	"logo":"adria.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":430,
 	"deleted":false,
 	"models":[
@@ -14697,7 +14697,7 @@
 	]},{
 	"name":"AEBI",
 	"logo":"aebi.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":440,
 	"deleted":false,
 	"models":[
@@ -14710,7 +14710,7 @@
 	]},{
 	"name":"AERO",
 	"logo":"aero.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":450,
 	"deleted":false,
 	"models":[
@@ -14733,7 +14733,7 @@
 	]},{
 	"name":"AGM",
 	"logo":"agm.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":460,
 	"deleted":false,
 	"models":[
@@ -14746,7 +14746,7 @@
 	]},{
 	"name":"AIXAM",
 	"logo":"aixam.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":470,
 	"deleted":false,
 	"models":[
@@ -14799,7 +14799,7 @@
 	]},{
 	"name":"ALKE",
 	"logo":"alke.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":480,
 	"deleted":false,
 	"models":[
@@ -14812,7 +14812,7 @@
 	]},{
 	"name":"ALPINE",
 	"logo":"alpine.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":490,
 	"deleted":false,
 	"models":[
@@ -14825,7 +14825,7 @@
 	]},{
 	"name":"ANDORIA MOT",
 	"logo":"andoria-mot.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":500,
 	"deleted":false,
 	"models":[
@@ -14838,7 +14838,7 @@
 	]},{
 	"name":"ARIEL",
 	"logo":"ariel.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":510,
 	"deleted":false,
 	"models":[
@@ -14851,7 +14851,7 @@
 	]},{
 	"name":"ARO",
 	"logo":"aro.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":520,
 	"deleted":false,
 	"models":[
@@ -14879,7 +14879,7 @@
 	]},{
 	"name":"ASTON MARTIN",
 	"logo":"aston-martin.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":530,
 	"deleted":false,
 	"models":[
@@ -14977,7 +14977,7 @@
 	]},{
 	"name":"ATTACK",
 	"logo":"attack.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":540,
 	"deleted":false,
 	"models":[
@@ -14990,7 +14990,7 @@
 	]},{
 	"name":"AUSTIN",
 	"logo":"austin.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":550,
 	"deleted":false,
 	"models":[
@@ -15018,7 +15018,7 @@
 	]},{
 	"name":"AUTOBIANCHI",
 	"logo":"autobianchi.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":560,
 	"deleted":false,
 	"models":[
@@ -15031,7 +15031,7 @@
 	]},{
 	"name":"AUTOHANDL",
 	"logo":"autohandl.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":570,
 	"deleted":false,
 	"models":[
@@ -15049,7 +15049,7 @@
 	]},{
 	"name":"AUVERLAND",
 	"logo":"auverland.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":580,
 	"deleted":false,
 	"models":[
@@ -15067,7 +15067,7 @@
 	]},{
 	"name":"AVIA",
 	"logo":"avia.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":590,
 	"deleted":false,
 	"models":[
@@ -15175,7 +15175,7 @@
 	]},{
 	"name":"AYATS",
 	"logo":"ayats.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":600,
 	"deleted":false,
 	"models":[
@@ -15193,7 +15193,7 @@
 	]},{
 	"name":"BAVARIA",
 	"logo":"bavaria.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":610,
 	"deleted":false,
 	"models":[
@@ -15206,7 +15206,7 @@
 	]},{
 	"name":"BERKHOF",
 	"logo":"berkhof.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":620,
 	"deleted":false,
 	"models":[
@@ -15229,7 +15229,7 @@
 	]},{
 	"name":"BESKYDSPORT",
 	"logo":"beskydsport.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":630,
 	"deleted":false,
 	"models":[
@@ -15242,7 +15242,7 @@
 	]},{
 	"name":"BETA",
 	"logo":"beta.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":640,
 	"deleted":false,
 	"models":[
@@ -15255,7 +15255,7 @@
 	]},{
 	"name":"BEULAS",
 	"logo":"beulas.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":650,
 	"deleted":false,
 	"models":[
@@ -15303,7 +15303,7 @@
 	]},{
 	"name":"BLATA",
 	"logo":"blata.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":660,
 	"deleted":false,
 	"models":[
@@ -15326,7 +15326,7 @@
 	]},{
 	"name":"BMC",
 	"logo":"bmc.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":670,
 	"deleted":false,
 	"models":[
@@ -15359,7 +15359,7 @@
 	]},{
 	"name":"BMW ALPINA",
 	"logo":"bmw-alpina.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":680,
 	"deleted":false,
 	"models":[
@@ -15467,7 +15467,7 @@
 	]},{
 	"name":"BOVA",
 	"logo":"bova.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":690,
 	"deleted":false,
 	"models":[
@@ -15495,7 +15495,7 @@
 	]},{
 	"name":"BREMACH",
 	"logo":"bremach.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":700,
 	"deleted":false,
 	"models":[
@@ -15513,7 +15513,7 @@
 	]},{
 	"name":"BRILLIANCE",
 	"logo":"brilliance.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":710,
 	"deleted":false,
 	"models":[
@@ -15546,7 +15546,7 @@
 	]},{
 	"name":"BUICK",
 	"logo":"buick.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":720,
 	"deleted":false,
 	"models":[
@@ -15589,7 +15589,7 @@
 	]},{
 	"name":"BÜRSTNER",
 	"logo":"burstner.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":730,
 	"deleted":false,
 	"models":[
@@ -15642,7 +15642,7 @@
 	]},{
 	"name":"CADILLAC",
 	"logo":"cadillac.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":740,
 	"deleted":false,
 	"models":[
@@ -15770,7 +15770,7 @@
 	]},{
 	"name":"CATERHAM",
 	"logo":"caterham.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":750,
 	"deleted":false,
 	"models":[
@@ -15783,7 +15783,7 @@
 	]},{
 	"name":"CONCORDE",
 	"logo":"concorde.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":760,
 	"deleted":false,
 	"models":[
@@ -15796,7 +15796,7 @@
 	]},{
 	"name":"CORVETTE",
 	"logo":"corvette.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":770,
 	"deleted":false,
 	"models":[
@@ -15844,7 +15844,7 @@
 	]},{
 	"name":"CUPRA",
 	"logo":"cupra.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":780,
 	"deleted":false,
 	"models":[
@@ -15867,7 +15867,7 @@
 	]},{
 	"name":"DAEWOO",
 	"logo":"daewoo.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":790,
 	"deleted":false,
 	"models":[
@@ -15995,7 +15995,7 @@
 	]},{
 	"name":"DAF",
 	"logo":"daf.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":800,
 	"deleted":false,
 	"models":[
@@ -16183,7 +16183,7 @@
 	]},{
 	"name":"DAIHATSU",
 	"logo":"daihatsu.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":810,
 	"deleted":false,
 	"models":[
@@ -16276,7 +16276,7 @@
 	]},{
 	"name":"DAIMLER COMPANY",
 	"logo":"daimler-company.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":820,
 	"deleted":false,
 	"models":[
@@ -16289,7 +16289,7 @@
 	]},{
 	"name":"DEN OUDSTEN",
 	"logo":"den-oudsten.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":830,
 	"deleted":false,
 	"models":[
@@ -16302,7 +16302,7 @@
 	]},{
 	"name":"DENIS RAPIER",
 	"logo":"denis-rapier.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":840,
 	"deleted":false,
 	"models":[
@@ -16315,7 +16315,7 @@
 	]},{
 	"name":"DFM",
 	"logo":"dfm.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":850,
 	"deleted":false,
 	"models":[
@@ -16328,7 +16328,7 @@
 	]},{
 	"name":"EAGLE",
 	"logo":"eagle.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":860,
 	"deleted":false,
 	"models":[
@@ -16346,7 +16346,7 @@
 	]},{
 	"name":"ELNAGH",
 	"logo":"elnagh.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":870,
 	"deleted":false,
 	"models":[
@@ -16359,7 +16359,7 @@
 	]},{
 	"name":"ERNST AUWÄRTER",
 	"logo":"ernst-auwarter.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":880,
 	"deleted":false,
 	"models":[
@@ -16397,7 +16397,7 @@
 	]},{
 	"name":"FAVERO",
 	"logo":"favero.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":890,
 	"deleted":false,
 	"models":[
@@ -16410,7 +16410,7 @@
 	]},{
 	"name":"FREIGHTLINER",
 	"logo":"freightliner.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":900,
 	"deleted":false,
 	"models":[
@@ -16423,7 +16423,7 @@
 	]},{
 	"name":"FSO",
 	"logo":"fso.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":910,
 	"deleted":false,
 	"models":[
@@ -16436,7 +16436,7 @@
 	]},{
 	"name":"FUSO",
 	"logo":"fuso.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":920,
 	"deleted":false,
 	"models":[
@@ -16454,7 +16454,7 @@
 	]},{
 	"name":"GAZ",
 	"logo":"gaz.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":930,
 	"deleted":false,
 	"models":[
@@ -16482,7 +16482,7 @@
 	]},{
 	"name":"GENESIS",
 	"logo":"genesis.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":940,
 	"deleted":false,
 	"models":[
@@ -16505,7 +16505,7 @@
 	]},{
 	"name":"GEO",
 	"logo":"geo.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":950,
 	"deleted":false,
 	"models":[
@@ -16538,7 +16538,7 @@
 	]},{
 	"name":"GILLET",
 	"logo":"gillet.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":960,
 	"deleted":false,
 	"models":[
@@ -16551,7 +16551,7 @@
 	]},{
 	"name":"GINAF",
 	"logo":"ginaf.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":970,
 	"deleted":false,
 	"models":[
@@ -16564,7 +16564,7 @@
 	]},{
 	"name":"GIOTTI VICTORIA",
 	"logo":"giotti-victoria.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":980,
 	"deleted":false,
 	"models":[
@@ -16582,7 +16582,7 @@
 	]},{
 	"name":"GMC",
 	"logo":"gmc.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":990,
 	"deleted":false,
 	"models":[
@@ -16620,7 +16620,7 @@
 	]},{
 	"name":"GONOW",
 	"logo":"gonow.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1000,
 	"deleted":false,
 	"models":[
@@ -16648,7 +16648,7 @@
 	]},{
 	"name":"GORDON",
 	"logo":"gordon.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1010,
 	"deleted":false,
 	"models":[
@@ -16661,7 +16661,7 @@
 	]},{
 	"name":"GREAT WALL",
 	"logo":"great-wall.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1020,
 	"deleted":false,
 	"models":[
@@ -16674,7 +16674,7 @@
 	]},{
 	"name":"HARLEY DAVIDSON",
 	"logo":"harley-davidson.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1030,
 	"deleted":false,
 	"models":[
@@ -16792,7 +16792,7 @@
 	]},{
 	"name":"HONKER",
 	"logo":"honker.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1040,
 	"deleted":false,
 	"models":[
@@ -16805,7 +16805,7 @@
 	]},{
 	"name":"HOTROD",
 	"logo":"hotrod.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1050,
 	"deleted":false,
 	"models":[
@@ -16818,7 +16818,7 @@
 	]},{
 	"name":"HUMMER",
 	"logo":"hummer.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1060,
 	"deleted":false,
 	"models":[
@@ -16856,7 +16856,7 @@
 	]},{
 	"name":"CHAUSSON",
 	"logo":"chausson.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1070,
 	"deleted":false,
 	"models":[
@@ -16869,7 +16869,7 @@
 	]},{
 	"name":"CHEVAL LIBERTÉ",
 	"logo":"cheval-liberte.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1080,
 	"deleted":false,
 	"models":[
@@ -16897,7 +16897,7 @@
 	]},{
 	"name":"CHRYSLER",
 	"logo":"chrysler.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1090,
 	"deleted":false,
 	"models":[
@@ -17110,7 +17110,7 @@
 	]},{
 	"name":"IFA",
 	"logo":"ifa.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1100,
 	"deleted":false,
 	"models":[
@@ -17128,7 +17128,7 @@
 	]},{
 	"name":"INFINITI",
 	"logo":"infiniti.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1110,
 	"deleted":false,
 	"models":[
@@ -17336,7 +17336,7 @@
 	]},{
 	"name":"INTRALL",
 	"logo":"intrall.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1120,
 	"deleted":false,
 	"models":[
@@ -17349,7 +17349,7 @@
 	]},{
 	"name":"IRISBUS",
 	"logo":"irisbus.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1130,
 	"deleted":false,
 	"models":[
@@ -17427,7 +17427,7 @@
 	]},{
 	"name":"ISUZU",
 	"logo":"isuzu.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1140,
 	"deleted":false,
 	"models":[
@@ -17510,7 +17510,7 @@
 	]},{
 	"name":"IVECO",
 	"logo":"iveco.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1150,
 	"deleted":false,
 	"models":[
@@ -17593,7 +17593,7 @@
 	]},{
 	"name":"JAWA",
 	"logo":"jawa.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1160,
 	"deleted":false,
 	"models":[
@@ -17606,7 +17606,7 @@
 	]},{
 	"name":"K1",
 	"logo":"k1.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1170,
 	"deleted":false,
 	"models":[
@@ -17619,7 +17619,7 @@
 	]},{
 	"name":"KAIPAN",
 	"logo":"kaipan.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1180,
 	"deleted":false,
 	"models":[
@@ -17677,7 +17677,7 @@
 	]},{
 	"name":"KARMAN - MOBIL",
 	"logo":"karman---mobil.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1190,
 	"deleted":false,
 	"models":[
@@ -17690,7 +17690,7 @@
 	]},{
 	"name":"KAROSA",
 	"logo":"karosa.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1200,
 	"deleted":false,
 	"models":[
@@ -17728,7 +17728,7 @@
 	]},{
 	"name":"KENWORTH",
 	"logo":"kenworth.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1210,
 	"deleted":false,
 	"models":[
@@ -17751,7 +17751,7 @@
 	]},{
 	"name":"KTM",
 	"logo":"ktm.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1220,
 	"deleted":false,
 	"models":[
@@ -17764,7 +17764,7 @@
 	]},{
 	"name":"LAMBORGHINI",
 	"logo":"lamborghini.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1230,
 	"deleted":false,
 	"models":[
@@ -17817,7 +17817,7 @@
 	]},{
 	"name":"LANCIA",
 	"logo":"lancia.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1240,
 	"deleted":false,
 	"models":[
@@ -17915,7 +17915,7 @@
 	]},{
 	"name":"LDV",
 	"logo":"ldv.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1250,
 	"deleted":false,
 	"models":[
@@ -17928,7 +17928,7 @@
 	]},{
 	"name":"LIAZ",
 	"logo":"liaz.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1260,
 	"deleted":false,
 	"models":[
@@ -18016,7 +18016,7 @@
 	]},{
 	"name":"LINCOLN",
 	"logo":"lincoln.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1270,
 	"deleted":false,
 	"models":[
@@ -18074,7 +18074,7 @@
 	]},{
 	"name":"LOTUS",
 	"logo":"lotus.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1280,
 	"deleted":false,
 	"models":[
@@ -18102,7 +18102,7 @@
 	]},{
 	"name":"MAGMA",
 	"logo":"magma.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1290,
 	"deleted":false,
 	"models":[
@@ -18115,7 +18115,7 @@
 	]},{
 	"name":"MAHINDRA",
 	"logo":"mahindra.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1300,
 	"deleted":false,
 	"models":[
@@ -18133,7 +18133,7 @@
 	]},{
 	"name":"MAN",
 	"logo":"man.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1310,
 	"deleted":false,
 	"models":[
@@ -18271,7 +18271,7 @@
 	]},{
 	"name":"MARCOS",
 	"logo":"marcos.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1320,
 	"deleted":false,
 	"models":[
@@ -18304,7 +18304,7 @@
 	]},{
 	"name":"MARTIN MOTORS",
 	"logo":"martin-motors.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1330,
 	"deleted":false,
 	"models":[
@@ -18337,7 +18337,7 @@
 	]},{
 	"name":"MARUTI",
 	"logo":"maruti.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1340,
 	"deleted":false,
 	"models":[
@@ -18355,7 +18355,7 @@
 	]},{
 	"name":"MAYBACH",
 	"logo":"maybach.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1350,
 	"deleted":false,
 	"models":[
@@ -18368,7 +18368,7 @@
 	]},{
 	"name":"MCC",
 	"logo":"mcc.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1360,
 	"deleted":false,
 	"models":[
@@ -18386,7 +18386,7 @@
 	]},{
 	"name":"MCC SMART",
 	"logo":"mcc-smart.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1370,
 	"deleted":false,
 	"models":[
@@ -18414,7 +18414,7 @@
 	]},{
 	"name":"MCLAREN",
 	"logo":"mclaren.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1380,
 	"deleted":false,
 	"models":[
@@ -18467,7 +18467,7 @@
 	]},{
 	"name":"MCLOUIS",
 	"logo":"mclouis.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1390,
 	"deleted":false,
 	"models":[
@@ -18485,7 +18485,7 @@
 	]},{
 	"name":"MERCURY",
 	"logo":"mercury.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1400,
 	"deleted":false,
 	"models":[
@@ -18503,7 +18503,7 @@
 	]},{
 	"name":"MG",
 	"logo":"mg.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1410,
 	"deleted":false,
 	"models":[
@@ -18536,7 +18536,7 @@
 	]},{
 	"name":"MCHALE",
 	"logo":"mchale.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1420,
 	"deleted":false,
 	"models":[
@@ -18549,7 +18549,7 @@
 	]},{
 	"name":"MIROSMET",
 	"logo":"mirosmet.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1430,
 	"deleted":false,
 	"models":[
@@ -18562,7 +18562,7 @@
 	]},{
 	"name":"MITSUBISHI FUSO",
 	"logo":"mitsubishi-fuso.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1440,
 	"deleted":false,
 	"models":[
@@ -18575,7 +18575,7 @@
 	]},{
 	"name":"MOBILVETTA",
 	"logo":"mobilvetta.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1450,
 	"deleted":false,
 	"models":[
@@ -18588,7 +18588,7 @@
 	]},{
 	"name":"MORGAN",
 	"logo":"morgan.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1460,
 	"deleted":false,
 	"models":[
@@ -18601,7 +18601,7 @@
 	]},{
 	"name":"MOSKVIČ",
 	"logo":"moskvic.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1470,
 	"deleted":false,
 	"models":[
@@ -18624,7 +18624,7 @@
 	]},{
 	"name":"MOTO UNION",
 	"logo":"moto-union.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1480,
 	"deleted":false,
 	"models":[
@@ -18647,7 +18647,7 @@
 	]},{
 	"name":"MTX",
 	"logo":"mtx.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1490,
 	"deleted":false,
 	"models":[
@@ -18665,7 +18665,7 @@
 	]},{
 	"name":"MULTICAR",
 	"logo":"multicar.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1500,
 	"deleted":false,
 	"models":[
@@ -18713,7 +18713,7 @@
 	]},{
 	"name":"NEOPLAN",
 	"logo":"neoplan.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1510,
 	"deleted":false,
 	"models":[
@@ -18776,7 +18776,7 @@
 	]},{
 	"name":"NIESMANN+BISCHOFF",
 	"logo":"niesmann+bischoff.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1520,
 	"deleted":false,
 	"models":[
@@ -18789,7 +18789,7 @@
 	]},{
 	"name":"OLDSMOBILE",
 	"logo":"oldsmobile.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1530,
 	"deleted":false,
 	"models":[
@@ -18827,7 +18827,7 @@
 	]},{
 	"name":"OLTCIT",
 	"logo":"oltcit.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1540,
 	"deleted":false,
 	"models":[
@@ -18845,7 +18845,7 @@
 	]},{
 	"name":"PFAU",
 	"logo":"pfau.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1550,
 	"deleted":false,
 	"models":[
@@ -18858,7 +18858,7 @@
 	]},{
 	"name":"PGO",
 	"logo":"pgo.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1560,
 	"deleted":false,
 	"models":[
@@ -18876,7 +18876,7 @@
 	]},{
 	"name":"PIAGGIO",
 	"logo":"piaggio.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1570,
 	"deleted":false,
 	"models":[
@@ -18904,7 +18904,7 @@
 	]},{
 	"name":"PLYMOUTH",
 	"logo":"plymouth.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1580,
 	"deleted":false,
 	"models":[
@@ -18927,7 +18927,7 @@
 	]},{
 	"name":"POBĚDA",
 	"logo":"pobeda.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1590,
 	"deleted":false,
 	"models":[
@@ -18940,7 +18940,7 @@
 	]},{
 	"name":"POLARIS",
 	"logo":"polaris.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1600,
 	"deleted":false,
 	"models":[
@@ -18953,7 +18953,7 @@
 	]},{
 	"name":"POLSKI FIAT",
 	"logo":"polski-fiat.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1610,
 	"deleted":false,
 	"models":[
@@ -18976,7 +18976,7 @@
 	]},{
 	"name":"PONTIAC",
 	"logo":"pontiac.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1620,
 	"deleted":false,
 	"models":[
@@ -19039,7 +19039,7 @@
 	]},{
 	"name":"PRAGA",
 	"logo":"praga.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1630,
 	"deleted":false,
 	"models":[
@@ -19082,7 +19082,7 @@
 	]},{
 	"name":"PROTON",
 	"logo":"proton.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1640,
 	"deleted":false,
 	"models":[
@@ -19140,7 +19140,7 @@
 	]},{
 	"name":"RADICAL",
 	"logo":"radical.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1650,
 	"deleted":false,
 	"models":[
@@ -19153,7 +19153,7 @@
 	]},{
 	"name":"RAF",
 	"logo":"raf.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1660,
 	"deleted":false,
 	"models":[
@@ -19166,7 +19166,7 @@
 	]},{
 	"name":"RAG",
 	"logo":"rag.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1670,
 	"deleted":false,
 	"models":[
@@ -19179,7 +19179,7 @@
 	]},{
 	"name":"RANGE ROVER",
 	"logo":"range-rover.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1680,
 	"deleted":false,
 	"models":[
@@ -19192,7 +19192,7 @@
 	]},{
 	"name":"REFORM",
 	"logo":"reform.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1690,
 	"deleted":false,
 	"models":[
@@ -19205,7 +19205,7 @@
 	]},{
 	"name":"ROLLS ROYCE",
 	"logo":"rolls-royce.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1700,
 	"deleted":false,
 	"models":[
@@ -19248,7 +19248,7 @@
 	]},{
 	"name":"ROSS",
 	"logo":"ross.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1710,
 	"deleted":false,
 	"models":[
@@ -19281,7 +19281,7 @@
 	]},{
 	"name":"ROTTNE",
 	"logo":"rottne.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1720,
 	"deleted":false,
 	"models":[
@@ -19294,7 +19294,7 @@
 	]},{
 	"name":"ROVER",
 	"logo":"rover.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1730,
 	"deleted":false,
 	"models":[
@@ -19367,7 +19367,7 @@
 	]},{
 	"name":"SAAB",
 	"logo":"saab.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1740,
 	"deleted":false,
 	"models":[
@@ -19465,7 +19465,7 @@
 	]},{
 	"name":"SAM",
 	"logo":"sam.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1750,
 	"deleted":false,
 	"models":[
@@ -19478,7 +19478,7 @@
 	]},{
 	"name":"SANTANA",
 	"logo":"santana.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1760,
 	"deleted":false,
 	"models":[
@@ -19511,7 +19511,7 @@
 	]},{
 	"name":"SAP",
 	"logo":"sap.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1770,
 	"deleted":false,
 	"models":[
@@ -19524,7 +19524,7 @@
 	]},{
 	"name":"SATURN",
 	"logo":"saturn.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1780,
 	"deleted":false,
 	"models":[
@@ -19547,7 +19547,7 @@
 	]},{
 	"name":"SCAM",
 	"logo":"scam.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1790,
 	"deleted":false,
 	"models":[
@@ -19565,7 +19565,7 @@
 	]},{
 	"name":"SCANIA",
 	"logo":"scania.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1800,
 	"deleted":false,
 	"models":[
@@ -19773,7 +19773,7 @@
 	]},{
 	"name":"SINGER",
 	"logo":"singer.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1810,
 	"deleted":false,
 	"models":[
@@ -19786,7 +19786,7 @@
 	]},{
 	"name":"SKIPI",
 	"logo":"skipi.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1820,
 	"deleted":false,
 	"models":[
@@ -19799,7 +19799,7 @@
 	]},{
 	"name":"SMIT",
 	"logo":"smit.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1830,
 	"deleted":false,
 	"models":[
@@ -19812,7 +19812,7 @@
 	]},{
 	"name":"SOLARIS",
 	"logo":"solaris.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1840,
 	"deleted":false,
 	"models":[
@@ -19840,7 +19840,7 @@
 	]},{
 	"name":"SOR",
 	"logo":"sor.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1850,
 	"deleted":false,
 	"models":[
@@ -19858,7 +19858,7 @@
 	]},{
 	"name":"SPYKER",
 	"logo":"spyker.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1860,
 	"deleted":false,
 	"models":[
@@ -19876,7 +19876,7 @@
 	]},{
 	"name":"STADION",
 	"logo":"stadion.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1870,
 	"deleted":false,
 	"models":[
@@ -19894,7 +19894,7 @@
 	]},{
 	"name":"STEYR",
 	"logo":"steyr.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1880,
 	"deleted":false,
 	"models":[
@@ -19907,7 +19907,7 @@
 	]},{
 	"name":"STREETSCOOTER",
 	"logo":"streetscooter.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1890,
 	"deleted":false,
 	"models":[
@@ -19920,7 +19920,7 @@
 	]},{
 	"name":"TATA",
 	"logo":"tata.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1900,
 	"deleted":false,
 	"models":[
@@ -19943,7 +19943,7 @@
 	]},{
 	"name":"TATRA",
 	"logo":"tatra.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1910,
 	"deleted":false,
 	"models":[
@@ -20011,7 +20011,7 @@
 	]},{
 	"name":"TAZ",
 	"logo":"taz.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1920,
 	"deleted":false,
 	"models":[
@@ -20034,7 +20034,7 @@
 	]},{
 	"name":"TEDOM",
 	"logo":"tedom.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1930,
 	"deleted":false,
 	"models":[
@@ -20057,7 +20057,7 @@
 	]},{
 	"name":"TEMSA",
 	"logo":"temsa.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1940,
 	"deleted":false,
 	"models":[
@@ -20090,7 +20090,7 @@
 	]},{
 	"name":"THUNDERBOLD",
 	"logo":"thunderbold.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1950,
 	"deleted":false,
 	"models":[
@@ -20108,7 +20108,7 @@
 	]},{
 	"name":"TMEC",
 	"logo":"tmec.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1960,
 	"deleted":false,
 	"models":[
@@ -20121,7 +20121,7 @@
 	]},{
 	"name":"TRIGANO",
 	"logo":"trigano.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1970,
 	"deleted":false,
 	"models":[
@@ -20174,7 +20174,7 @@
 	]},{
 	"name":"TRIUMPH",
 	"logo":"triumph.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1980,
 	"deleted":false,
 	"models":[
@@ -20187,7 +20187,7 @@
 	]},{
 	"name":"UAZ",
 	"logo":"uaz.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":1990,
 	"deleted":false,
 	"models":[
@@ -20285,7 +20285,7 @@
 	]},{
 	"name":"VAZ",
 	"logo":"vaz.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":2000,
 	"deleted":false,
 	"models":[
@@ -20343,7 +20343,7 @@
 	]},{
 	"name":"VDL",
 	"logo":"vdl.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":2010,
 	"deleted":false,
 	"models":[
@@ -20356,7 +20356,7 @@
 	]},{
 	"name":"VDO MOTO",
 	"logo":"vdo-moto.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":2020,
 	"deleted":false,
 	"models":[
@@ -20369,7 +20369,7 @@
 	]},{
 	"name":"VICON",
 	"logo":"vicon.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":2030,
 	"deleted":false,
 	"models":[
@@ -20382,7 +20382,7 @@
 	]},{
 	"name":"VOLGA",
 	"logo":"volga.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":2040,
 	"deleted":false,
 	"models":[
@@ -20395,7 +20395,7 @@
 	]},{
 	"name":"VOLHA",
 	"logo":"volha.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":2050,
 	"deleted":false,
 	"models":[
@@ -20408,7 +20408,7 @@
 	]},{
 	"name":"WALTER",
 	"logo":"walter.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":2060,
 	"deleted":false,
 	"models":[
@@ -20426,7 +20426,7 @@
 	]},{
 	"name":"WANDERER",
 	"logo":"wanderer.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":2070,
 	"deleted":false,
 	"models":[
@@ -20449,7 +20449,7 @@
 	]},{
 	"name":"WELGER",
 	"logo":"welger.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":2080,
 	"deleted":false,
 	"models":[
@@ -20462,7 +20462,7 @@
 	]},{
 	"name":"WIESMANN",
 	"logo":"wiesmann.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":2090,
 	"deleted":false,
 	"models":[
@@ -20480,7 +20480,7 @@
 	]},{
 	"name":"YES",
 	"logo":"yes.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":2100,
 	"deleted":false,
 	"models":[
@@ -20493,7 +20493,7 @@
 	]},{
 	"name":"YUGO",
 	"logo":"yugo.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":2110,
 	"deleted":false,
 	"models":[
@@ -20516,7 +20516,7 @@
 	]},{
 	"name":"YUTONG",
 	"logo":"yutong.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":2120,
 	"deleted":false,
 	"models":[
@@ -20539,7 +20539,7 @@
 	]},{
 	"name":"ZASTAVA",
 	"logo":"zastava.png",
-	"type":"car",
+	"vehicle_type":"car",
 	"order":2130,
 	"deleted":false,
 	"models":[
@@ -20577,7 +20577,7 @@
 	]},{
 	"name":"AIXAM",
 	"logo":"aixam.png",
-	"type":"motorcycle",
+	"vehicle_type":"motorcycle",
 	"order":10010,
 	"deleted":false,
 	"models":[
@@ -20591,7 +20591,7 @@
 	]},{
 	"name":"AJP",
 	"logo":"ajp.png",
-	"type":"motorcycle",
+	"vehicle_type":"motorcycle",
 	"order":10020,
 	"deleted":false,
 	"models":[
@@ -20683,7 +20683,7 @@
 	]},{
 	"name":"APRILIA",
 	"logo":"aprilia.png",
-	"type":"motorcycle",
+	"vehicle_type":"motorcycle",
 	"order":10030,
 	"deleted":false,
 	"models":[
@@ -20811,7 +20811,7 @@
 	]},{
 	"name":"BENELLI",
 	"logo":"benelli.png",
-	"type":"motorcycle",
+	"vehicle_type":"motorcycle",
 	"order":10040,
 	"deleted":false,
 	"models":[
@@ -20903,7 +20903,7 @@
 	]},{
 	"name":"BETA",
 	"logo":"beta.png",
-	"type":"motorcycle",
+	"vehicle_type":"motorcycle",
 	"order":10050,
 	"deleted":false,
 	"models":[
@@ -20947,7 +20947,7 @@
 	]},{
 	"name":"BIMOTA",
 	"logo":"bimota.png",
-	"type":"motorcycle",
+	"vehicle_type":"motorcycle",
 	"order":10060,
 	"deleted":false,
 	"models":[
@@ -20967,7 +20967,7 @@
 	]},{
 	"name":"BMW",
 	"logo":"bmw.png",
-	"type":"motorcycle",
+	"vehicle_type":"motorcycle",
 	"order":10070,
 	"deleted":false,
 	"models":[
@@ -21431,7 +21431,7 @@
 	]},{
 	"name":"BUELL",
 	"logo":"buell.png",
-	"type":"motorcycle",
+	"vehicle_type":"motorcycle",
 	"order":10080,
 	"deleted":false,
 	"models":[
@@ -21493,7 +21493,7 @@
 	]},{
 	"name":"CAGIVA",
 	"logo":"cagiva.png",
-	"type":"motorcycle",
+	"vehicle_type":"motorcycle",
 	"order":10090,
 	"deleted":false,
 	"models":[
@@ -21537,7 +21537,7 @@
 	]},{
 	"name":"CPI",
 	"logo":"cpi.png",
-	"type":"motorcycle",
+	"vehicle_type":"motorcycle",
 	"order":10100,
 	"deleted":false,
 	"models":[
@@ -21551,7 +21551,7 @@
 	]},{
 	"name":"DAELIM",
 	"logo":"daelim.png",
-	"type":"motorcycle",
+	"vehicle_type":"motorcycle",
 	"order":10110,
 	"deleted":false,
 	"models":[
@@ -21565,7 +21565,7 @@
 	]},{
 	"name":"DUCATI",
 	"logo":"ducati.png",
-	"type":"motorcycle",
+	"vehicle_type":"motorcycle",
 	"order":10120,
 	"deleted":false,
 	"models":[
@@ -22274,7 +22274,7 @@
 	]},{
 	"name":"ELA",
 	"logo":"ela.png",
-	"type":"motorcycle",
+	"vehicle_type":"motorcycle",
 	"order":10130,
 	"deleted":false,
 	"models":[
@@ -22288,7 +22288,7 @@
 	]},{
 	"name":"ENERGICA",
 	"logo":"energica.png",
-	"type":"motorcycle",
+	"vehicle_type":"motorcycle",
 	"order":10140,
 	"deleted":false,
 	"models":[
@@ -22308,7 +22308,7 @@
 	]},{
 	"name":"GAS GAS",
 	"logo":"gas-gas.png",
-	"type":"motorcycle",
+	"vehicle_type":"motorcycle",
 	"order":10150,
 	"deleted":false,
 	"models":[
@@ -22328,7 +22328,7 @@
 	]},{
 	"name":"GILERA",
 	"logo":"gilera.png",
-	"type":"motorcycle",
+	"vehicle_type":"motorcycle",
 	"order":10160,
 	"deleted":false,
 	"models":[
@@ -22354,7 +22354,7 @@
 	]},{
 	"name":"HARLEY-DAVIDSON",
 	"logo":"harley-davidson.png",
-	"type":"motorcycle",
+	"vehicle_type":"motorcycle",
 	"order":10170,
 	"deleted":false,
 	"models":[
@@ -22602,7 +22602,7 @@
 	]},{
 	"name":"HONDA",
 	"logo":"honda.png",
-	"type":"motorcycle",
+	"vehicle_type":"motorcycle",
 	"order":10180,
 	"deleted":false,
 	"models":[
@@ -22922,7 +22922,7 @@
 	]},{
 	"name":"HUSQVARNA",
 	"logo":"husqvarna.png",
-	"type":"motorcycle",
+	"vehicle_type":"motorcycle",
 	"order":10190,
 	"deleted":false,
 	"models":[
@@ -22966,7 +22966,7 @@
 	]},{
 	"name":"INDIAN",
 	"logo":"indian.png",
-	"type":"motorcycle",
+	"vehicle_type":"motorcycle",
 	"order":10200,
 	"deleted":false,
 	"models":[
@@ -22992,7 +22992,7 @@
 	]},{
 	"name":"JAWA",
 	"logo":"jawa.png",
-	"type":"motorcycle",
+	"vehicle_type":"motorcycle",
 	"order":10210,
 	"deleted":false,
 	"models":[
@@ -23006,7 +23006,7 @@
 	]},{
 	"name":"KAWASAKI",
 	"logo":"kawasaki.png",
-	"type":"motorcycle",
+	"vehicle_type":"motorcycle",
 	"order":10220,
 	"deleted":false,
 	"models":[
@@ -23308,7 +23308,7 @@
 	]},{
 	"name":"KINETIC",
 	"logo":"kinetic.png",
-	"type":"motorcycle",
+	"vehicle_type":"motorcycle",
 	"order":10230,
 	"deleted":false,
 	"models":[
@@ -23322,7 +23322,7 @@
 	]},{
 	"name":"KTM",
 	"logo":"ktm.png",
-	"type":"motorcycle",
+	"vehicle_type":"motorcycle",
 	"order":10240,
 	"deleted":false,
 	"models":[
@@ -23702,7 +23702,7 @@
 	]},{
 	"name":"KYMCO",
 	"logo":"kymco.png",
-	"type":"motorcycle",
+	"vehicle_type":"motorcycle",
 	"order":10250,
 	"deleted":false,
 	"models":[
@@ -23744,7 +23744,7 @@
 	]},{
 	"name":"LINGBEN",
 	"logo":"lingben.png",
-	"type":"motorcycle",
+	"vehicle_type":"motorcycle",
 	"order":10260,
 	"deleted":false,
 	"models":[
@@ -23770,7 +23770,7 @@
 	]},{
 	"name":"LONCIN",
 	"logo":"loncin.png",
-	"type":"motorcycle",
+	"vehicle_type":"motorcycle",
 	"order":10270,
 	"deleted":false,
 	"models":[
@@ -23826,7 +23826,7 @@
 	]},{
 	"name":"MALAGUTI",
 	"logo":"malaguti.png",
-	"type":"motorcycle",
+	"vehicle_type":"motorcycle",
 	"order":10280,
 	"deleted":false,
 	"models":[
@@ -23840,7 +23840,7 @@
 	]},{
 	"name":"MBK",
 	"logo":"mbk.png",
-	"type":"motorcycle",
+	"vehicle_type":"motorcycle",
 	"order":10290,
 	"deleted":false,
 	"models":[
@@ -23884,7 +23884,7 @@
 	]},{
 	"name":"MOTO GUZZI",
 	"logo":"moto-guzzi.png",
-	"type":"motorcycle",
+	"vehicle_type":"motorcycle",
 	"order":10300,
 	"deleted":false,
 	"models":[
@@ -24036,7 +24036,7 @@
 	]},{
 	"name":"MOTO MORINI",
 	"logo":"moto-morini.png",
-	"type":"motorcycle",
+	"vehicle_type":"motorcycle",
 	"order":10310,
 	"deleted":false,
 	"models":[
@@ -24050,7 +24050,7 @@
 	]},{
 	"name":"MOTOWELL",
 	"logo":"motowell.png",
-	"type":"motorcycle",
+	"vehicle_type":"motorcycle",
 	"order":10320,
 	"deleted":false,
 	"models":[
@@ -24100,7 +24100,7 @@
 	]},{
 	"name":"MV AGUSTA",
 	"logo":"mv-agusta.png",
-	"type":"motorcycle",
+	"vehicle_type":"motorcycle",
 	"order":10330,
 	"deleted":false,
 	"models":[
@@ -24162,7 +24162,7 @@
 	]},{
 	"name":"MZ",
 	"logo":"mz.png",
-	"type":"motorcycle",
+	"vehicle_type":"motorcycle",
 	"order":10340,
 	"deleted":false,
 	"models":[
@@ -24200,7 +24200,7 @@
 	]},{
 	"name":"NIU",
 	"logo":"niu.png",
-	"type":"motorcycle",
+	"vehicle_type":"motorcycle",
 	"order":10350,
 	"deleted":false,
 	"models":[
@@ -24214,7 +24214,7 @@
 	]},{
 	"name":"PGO",
 	"logo":"pgo.png",
-	"type":"motorcycle",
+	"vehicle_type":"motorcycle",
 	"order":10360,
 	"deleted":false,
 	"models":[
@@ -24234,7 +24234,7 @@
 	]},{
 	"name":"PIAGGIO",
 	"logo":"piaggio.png",
-	"type":"motorcycle",
+	"vehicle_type":"motorcycle",
 	"order":10370,
 	"deleted":false,
 	"models":[
@@ -24314,7 +24314,7 @@
 	]},{
 	"name":"PRAGA",
 	"logo":"praga.png",
-	"type":"motorcycle",
+	"vehicle_type":"motorcycle",
 	"order":10380,
 	"deleted":false,
 	"models":[
@@ -24346,7 +24346,7 @@
 	]},{
 	"name":"QUADRO",
 	"logo":"quadro.png",
-	"type":"motorcycle",
+	"vehicle_type":"motorcycle",
 	"order":10390,
 	"deleted":false,
 	"models":[
@@ -24360,7 +24360,7 @@
 	]},{
 	"name":"RHON",
 	"logo":"rhon.png",
-	"type":"motorcycle",
+	"vehicle_type":"motorcycle",
 	"order":10400,
 	"deleted":false,
 	"models":[
@@ -24374,7 +24374,7 @@
 	]},{
 	"name":"ROYAL ENFIELD",
 	"logo":"royal-enfield.png",
-	"type":"motorcycle",
+	"vehicle_type":"motorcycle",
 	"order":10410,
 	"deleted":false,
 	"models":[
@@ -24416,7 +24416,7 @@
 	]},{
 	"name":"SIAMOTO",
 	"logo":"siamoto.png",
-	"type":"motorcycle",
+	"vehicle_type":"motorcycle",
 	"order":10420,
 	"deleted":false,
 	"models":[
@@ -24436,7 +24436,7 @@
 	]},{
 	"name":"SUZUKI",
 	"logo":"suzuki.png",
-	"type":"motorcycle",
+	"vehicle_type":"motorcycle",
 	"order":10430,
 	"deleted":false,
 	"models":[
@@ -24474,7 +24474,7 @@
 	]},{
 	"name":"SYM",
 	"logo":"sym.png",
-	"type":"motorcycle",
+	"vehicle_type":"motorcycle",
 	"order":10440,
 	"deleted":false,
 	"models":[
@@ -24500,7 +24500,7 @@
 	]},{
 	"name":"TAURIS",
 	"logo":"tauris.png",
-	"type":"motorcycle",
+	"vehicle_type":"motorcycle",
 	"order":10450,
 	"deleted":false,
 	"models":[
@@ -24544,7 +24544,7 @@
 	]},{
 	"name":"TRIUMPH",
 	"logo":"triumph.png",
-	"type":"motorcycle",
+	"vehicle_type":"motorcycle",
 	"order":10460,
 	"deleted":false,
 	"models":[
@@ -24696,7 +24696,7 @@
 	]},{
 	"name":"URAL",
 	"logo":"ural.png",
-	"type":"motorcycle",
+	"vehicle_type":"motorcycle",
 	"order":10470,
 	"deleted":false,
 	"models":[
@@ -24710,7 +24710,7 @@
 	]},{
 	"name":"VESPA",
 	"logo":"vespa.png",
-	"type":"motorcycle",
+	"vehicle_type":"motorcycle",
 	"order":10480,
 	"deleted":false,
 	"models":[
@@ -24724,7 +24724,7 @@
 	]},{
 	"name":"VICTORY",
 	"logo":"victory.png",
-	"type":"motorcycle",
+	"vehicle_type":"motorcycle",
 	"order":10490,
 	"deleted":false,
 	"models":[
@@ -24792,7 +24792,7 @@
 	]},{
 	"name":"YAMAHA",
 	"logo":"yamaha.png",
-	"type":"motorcycle",
+	"vehicle_type":"motorcycle",
 	"order":10500,
 	"deleted":false,
 	"models":[
@@ -25136,7 +25136,7 @@
 	]},{
 	"name":"YUKI",
 	"logo":"yuki.png",
-	"type":"motorcycle",
+	"vehicle_type":"motorcycle",
 	"order":10510,
 	"deleted":false,
 	"models":[
@@ -25162,7 +25162,7 @@
 	]},{
 	"name":"ZNEN",
 	"logo":"znen.png",
-	"type":"motorcycle",
+	"vehicle_type":"motorcycle",
 	"order":10520,
 	"deleted":false,
 	"models":[
