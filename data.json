@@ -41,8 +41,14 @@
       "coupon_url_administration": "https://edalnice.cz/sprava-zakoupene-znamky/index.html#/charge_management",
 	  "coupon_url_verification": "https://edalnice.cz/#/validation/summary",
 	  "coupon_country_id":[
-		  {"CZ": "3906ba89-153c-4038-8e36-0ca1deb76076"},
-		  {"SK": "d2b5b887-3671-43de-b40e-47e4f8517d4a"}
+		  	{
+			  	"id": "CZ",
+				"value": "3906ba89-153c-4038-8e36-0ca1deb76076"
+			},
+		  	{
+				"id": "SK",
+				"value": "d2b5b887-3671-43de-b40e-47e4f8517d4a"
+			}
 	  ]
     },
     {
