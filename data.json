@@ -69,7 +69,8 @@
     },
 	{
       "country_abbr": "SI",
-      "order": 60
+      "order": 60,
+	  "coupon_url_buy": "https://evinjeta.dars.si/en"
     },
 	{
       "country_abbr": "RO",
