@@ -31,6 +31,15 @@
 			"facebook":"https://www.facebook.com/insia.sk",
 			"linkedin":"https://www.linkedin.com/company/insia-sk",
 			"youtube":"https://www.youtube.com/channel/UCxhrqC0f-VGHShKmx3edi7Q"
+        },
+		{
+            "country_abbr": "RO",
+            "title": "Centru de contact",
+            "subtitle": "INSIA a.s. Praga - Sucursala Bucuresti",
+            "address": "Floreasca Business Park, Corp A1\nCalea Floreasca, nr. 169A, Etaj 3, Sector 1\n014459 Bucureşti",
+            "phone": "+40 726 032 859",
+            "email": "info.ro@insia.com",
+            "web_url": "https://www.insia.ro/"
         }
     ],
 "countries": [
