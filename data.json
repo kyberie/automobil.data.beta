@@ -3535,7 +3535,7 @@
 		"opravneni":["OA"],
 		"psc":"58291",
 		"mesto":"Světlá nad Sázavou",
-		"ulice":"Zahrádecká 987",
+		"ulice":"Průmyslová 1208",
 		"provozovatel":" STK Světlá nad Sázavou, v.o.s.",
 		"vedouci":"POSKOČIL Pavel",
 		"telefon":"+420607844508",
@@ -3543,8 +3543,8 @@
 		"orp":"Světlá nad Sázavou",
 		"okres":"Havlíčkův Brod",
 		"kraj":"Vysočina",
-		"longitude":15.4031564,
-		"latitude":49.6745081
+		"longitude":15.3930081,
+		"latitude":49.6721611
 	},
 	{
 		"cislo":"37.01",
