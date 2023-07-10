@@ -43,6 +43,18 @@
 			"facebook": null,
 			"linkedin": null,
 			"youtube": null
+        },
+		{
+            "country_abbr": "PL",
+            "title": "Centrum Obsługi Klienta",
+            "subtitle": "Centrala Unilink SA",
+            "address": "ul. Konstantego I. Gałczyńskiego 2A, 05-090 Raszyn 2",
+            "phone": "+48 22 483 19 19",
+            "email": "biuro@unilink.pl",
+            "web_url": "https://unilink.pl",
+			"facebook": "facebook - empty",
+			"linkedin": "linkedin - empty",
+			"youtube": "youtube - empty"
         }
     ],
 "countries": [
