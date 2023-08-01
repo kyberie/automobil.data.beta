@@ -104,7 +104,8 @@
     },
 	{
       "country_abbr": "CH",
-      "order": 80
+      "order": 80,
+	  "coupon_url_buy": "https://via.admin.ch/shop/config/evignette"
     },
 	{
       "country_abbr": "BG",
