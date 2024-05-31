@@ -3267,7 +3267,7 @@
 			"order": 1190,
 			"vehicle_type": "car",
 			"europ_assistance": {
-				"active": true
+				"active": false
 			},
 			"insia": {
 				"active": true
@@ -4949,7 +4949,7 @@
 			"order": 850,
 			"vehicle_type": "car",
 			"europ_assistance": {
-				"active": true
+				"active": false
 			},
 			"insia": {
 				"active": true
@@ -4961,7 +4961,7 @@
 			"order": 860,
 			"vehicle_type": "car",
 			"europ_assistance": {
-				"active": true
+				"active": false
 			},
 			"insia": {
 				"active": true
@@ -4985,7 +4985,7 @@
 			"order": 880,
 			"vehicle_type": "car",
 			"europ_assistance": {
-				"active": true
+				"active": false
 			},
 			"insia": {
 				"active": true
@@ -19051,9 +19051,21 @@
 			}
 		},
 		{
+			"id": "6655bc6f45b4902781e57866",
+			"name": "M550D XDRIVE",
+			"order": 640,
+			"vehicle_type": "car",
+			"europ_assistance": {
+				"active": true
+			},
+			"insia": {
+				"active": true
+			}
+		},
+		{
 			"id": "5ac6a9ba45b490359bb12a55",
 			"name": "Ostatní",
-			"order": 640,
+			"order": 650,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": false
@@ -19065,7 +19077,7 @@
 		{
 			"id": "60c3cec145b490293d477d08",
 			"name": "R 1100 GS",
-			"order": 650,
+			"order": 660,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -19077,7 +19089,7 @@
 		{
 			"id": "60c3cec145b490293d477cfb",
 			"name": "R 1100 R",
-			"order": 660,
+			"order": 670,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -19089,7 +19101,7 @@
 		{
 			"id": "64be4588424d3f0ec13f18ad",
 			"name": "R 1100 RS",
-			"order": 670,
+			"order": 680,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -19101,7 +19113,7 @@
 		{
 			"id": "60c3cec145b490293d477cc6",
 			"name": "R 1100 RT",
-			"order": 680,
+			"order": 690,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -19113,7 +19125,7 @@
 		{
 			"id": "60c3cec145b490293d477cfc",
 			"name": "R 1100 S",
-			"order": 690,
+			"order": 700,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -19125,7 +19137,7 @@
 		{
 			"id": "60c3cec145b490293d477cd1",
 			"name": "R 1150 GS",
-			"order": 700,
+			"order": 710,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -19137,7 +19149,7 @@
 		{
 			"id": "60c3cec145b490293d477cdf",
 			"name": "R 1150 GS ADVENTURE",
-			"order": 710,
+			"order": 720,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -19149,7 +19161,7 @@
 		{
 			"id": "60c3cec145b490293d477cd6",
 			"name": "R 1150 R",
-			"order": 720,
+			"order": 730,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -19161,7 +19173,7 @@
 		{
 			"id": "60c3cec145b490293d477ce6",
 			"name": "R 1150 R ROCKSTER",
-			"order": 730,
+			"order": 740,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -19173,7 +19185,7 @@
 		{
 			"id": "60c3cec145b490293d477cdc",
 			"name": "R 1150 RS",
-			"order": 740,
+			"order": 750,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -19185,7 +19197,7 @@
 		{
 			"id": "60c3cec145b490293d477cdb",
 			"name": "R 1150 RT",
-			"order": 750,
+			"order": 760,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -19197,7 +19209,7 @@
 		{
 			"id": "60c3cec145b490293d477ced",
 			"name": "R 1200 C",
-			"order": 760,
+			"order": 770,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -19209,7 +19221,7 @@
 		{
 			"id": "60c3cec145b490293d477cda",
 			"name": "R 1200 CL",
-			"order": 770,
+			"order": 780,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -19221,7 +19233,7 @@
 		{
 			"id": "60c3cec145b490293d477ce7",
 			"name": "R 1200 GS",
-			"order": 780,
+			"order": 790,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -19233,7 +19245,7 @@
 		{
 			"id": "60c3cec145b490293d477ce4",
 			"name": "R 1200 GS ADVENTURE",
-			"order": 790,
+			"order": 800,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -19245,7 +19257,7 @@
 		{
 			"id": "60c3cec145b490293d477cf1",
 			"name": "R 1200 R",
-			"order": 800,
+			"order": 810,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -19257,7 +19269,7 @@
 		{
 			"id": "60c3cec145b490293d477d06",
 			"name": "R 1200 RS",
-			"order": 810,
+			"order": 820,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -19269,7 +19281,7 @@
 		{
 			"id": "60c3cec145b490293d477d05",
 			"name": "R 1200 RT",
-			"order": 820,
+			"order": 830,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -19281,7 +19293,7 @@
 		{
 			"id": "60c3cec145b490293d477cf2",
 			"name": "R 1200 S",
-			"order": 830,
+			"order": 840,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -19293,7 +19305,7 @@
 		{
 			"id": "60c3cec145b490293d477d01",
 			"name": "R 1200 ST",
-			"order": 840,
+			"order": 850,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -19305,7 +19317,7 @@
 		{
 			"id": "60c3cec145b490293d477d03",
 			"name": "R 1250 GS",
-			"order": 850,
+			"order": 860,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -19317,7 +19329,7 @@
 		{
 			"id": "60c3cec145b490293d477cd9",
 			"name": "R 1250 GS ADVENTURE",
-			"order": 860,
+			"order": 870,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -19329,7 +19341,7 @@
 		{
 			"id": "60c3cec145b490293d477cd2",
 			"name": "R 1250 R",
-			"order": 870,
+			"order": 880,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -19341,7 +19353,7 @@
 		{
 			"id": "60c3cec145b490293d477cd5",
 			"name": "R 1250 RS",
-			"order": 880,
+			"order": 890,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -19353,7 +19365,7 @@
 		{
 			"id": "60c3cec145b490293d477cd7",
 			"name": "R 1250 RT",
-			"order": 890,
+			"order": 900,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -19365,7 +19377,7 @@
 		{
 			"id": "6597a970424d3f2757dddc2a",
 			"name": "R 1300 GS",
-			"order": 900,
+			"order": 910,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -19377,7 +19389,7 @@
 		{
 			"id": "623c9a5a424d3f54e172ea83",
 			"name": "R 18",
-			"order": 910,
+			"order": 920,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -19389,7 +19401,7 @@
 		{
 			"id": "63d0d8d0424d3f51334c12e3",
 			"name": "R 80",
-			"order": 920,
+			"order": 930,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -19401,7 +19413,7 @@
 		{
 			"id": "63d0d97d45b4901ddde2ee5b",
 			"name": "R 80 R",
-			"order": 930,
+			"order": 940,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -19413,7 +19425,7 @@
 		{
 			"id": "60c3cec145b490293d477d0d",
 			"name": "R 850 GS",
-			"order": 940,
+			"order": 950,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -19425,7 +19437,7 @@
 		{
 			"id": "60c3cec145b490293d477cde",
 			"name": "R 850 RT",
-			"order": 950,
+			"order": 960,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -19437,7 +19449,7 @@
 		{
 			"id": "60c3cec145b490293d477ccf",
 			"name": "R NINET",
-			"order": 960,
+			"order": 970,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -19449,7 +19461,7 @@
 		{
 			"id": "60c3cec145b490293d477cce",
 			"name": "R NINET PURE",
-			"order": 970,
+			"order": 980,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -19461,7 +19473,7 @@
 		{
 			"id": "60c3cec145b490293d477d04",
 			"name": "R NINET RACER",
-			"order": 980,
+			"order": 990,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -19473,7 +19485,7 @@
 		{
 			"id": "60c3cec145b490293d477ce5",
 			"name": "R NINET SCRAMBLER",
-			"order": 990,
+			"order": 1000,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -19485,7 +19497,7 @@
 		{
 			"id": "623c99cb45b49028012aa1f0",
 			"name": "R NINET URBAN",
-			"order": 1000,
+			"order": 1010,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -19497,7 +19509,7 @@
 		{
 			"id": "5ac6a9b545b490359bb12525",
 			"name": "RADA 1",
-			"order": 1010,
+			"order": 1020,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": true
@@ -19595,7 +19607,7 @@
 		{
 			"id": "5ac6a9b545b490359bb12526",
 			"name": "RADA 1 Kabrio",
-			"order": 1020,
+			"order": 1030,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": true
@@ -19629,7 +19641,7 @@
 		{
 			"id": "5ac6a9b545b490359bb12527",
 			"name": "RADA 1 Kupé",
-			"order": 1030,
+			"order": 1040,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": true
@@ -19659,7 +19671,7 @@
 		{
 			"id": "5b27e21a45b490523ac5415d",
 			"name": "RADA 1 LET Cabrio",
-			"order": 1040,
+			"order": 1050,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": false
@@ -19671,7 +19683,7 @@
 		{
 			"id": "5ac6a9b545b490359bb12528",
 			"name": "RADA 2",
-			"order": 1050,
+			"order": 1060,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": false
@@ -19725,7 +19737,7 @@
 		{
 			"id": "5ac6a9b545b490359bb12529",
 			"name": "RADA 2 KABRIO",
-			"order": 1060,
+			"order": 1070,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": false
@@ -19759,7 +19771,7 @@
 		{
 			"id": "5ac6a9b545b490359bb1252a",
 			"name": "RADA 2 Kupé",
-			"order": 1070,
+			"order": 1080,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": false
@@ -19771,7 +19783,7 @@
 		{
 			"id": "5b27e21a45b490523ac5415e",
 			"name": "RADA 2 ACTIVE TOURER",
-			"order": 1080,
+			"order": 1090,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": false
@@ -19837,7 +19849,7 @@
 		{
 			"id": "602ecef845b4902e6f7273af",
 			"name": "RADA 2 GRAN Coupé",
-			"order": 1090,
+			"order": 1100,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": false
@@ -19849,7 +19861,7 @@
 		{
 			"id": "5b27e21a45b490523ac54160",
 			"name": "RADA 2 GRAN TOURER",
-			"order": 1100,
+			"order": 1110,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": false
@@ -19891,7 +19903,7 @@
 		{
 			"id": "5b27e21a45b490523ac5415f",
 			"name": "RADA 2 LET Cabrio",
-			"order": 1110,
+			"order": 1120,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": false
@@ -19903,7 +19915,7 @@
 		{
 			"id": "5ac6a9b545b490359bb1252b",
 			"name": "RADA 3",
-			"order": 1120,
+			"order": 1130,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": true
@@ -20061,7 +20073,7 @@
 		{
 			"id": "5ac6a9b545b490359bb1252c",
 			"name": "RADA 3 Kabrio",
-			"order": 1130,
+			"order": 1140,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": true
@@ -20103,7 +20115,7 @@
 		{
 			"id": "5ac6a9b545b490359bb1252d",
 			"name": "RADA 3 Kombi",
-			"order": 1140,
+			"order": 1150,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": true
@@ -20261,7 +20273,7 @@
 		{
 			"id": "5ac6a9b545b490359bb1252e",
 			"name": "RADA 3 Kupé",
-			"order": 1150,
+			"order": 1160,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": true
@@ -20307,7 +20319,7 @@
 		{
 			"id": "5b27e21a45b490523ac54162",
 			"name": "RADA 3 COMPACT",
-			"order": 1160,
+			"order": 1170,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": false
@@ -20319,7 +20331,7 @@
 		{
 			"id": "5b27e21a45b490523ac54163",
 			"name": "RADA 3 GRAN TURISMO",
-			"order": 1170,
+			"order": 1180,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": true
@@ -20413,7 +20425,7 @@
 		{
 			"id": "5b27e21a45b490523ac54161",
 			"name": "RADA 3 LET Cabrio",
-			"order": 1180,
+			"order": 1190,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": false
@@ -20425,7 +20437,7 @@
 		{
 			"id": "5ac6a9b545b490359bb1252f",
 			"name": "RADA 4",
-			"order": 1190,
+			"order": 1200,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": true
@@ -20507,7 +20519,7 @@
 		{
 			"id": "5ac6a9b545b490359bb12530",
 			"name": "RADA 4 Kabrio",
-			"order": 1200,
+			"order": 1210,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": true
@@ -20573,7 +20585,7 @@
 		{
 			"id": "5ac6a9b545b490359bb12531",
 			"name": "RADA 4 Kupé",
-			"order": 1210,
+			"order": 1220,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": true
@@ -20585,7 +20597,7 @@
 		{
 			"id": "5b27e21a45b490523ac54165",
 			"name": "RADA 4 GRAN Coupé",
-			"order": 1220,
+			"order": 1230,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": true
@@ -20667,7 +20679,7 @@
 		{
 			"id": "5b27e21a45b490523ac54164",
 			"name": "RADA 4 LET Cabrio",
-			"order": 1230,
+			"order": 1240,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": false
@@ -20679,7 +20691,7 @@
 		{
 			"id": "5ac6a9b545b490359bb12532",
 			"name": "RADA 5",
-			"order": 1240,
+			"order": 1250,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": true
@@ -20849,7 +20861,7 @@
 		{
 			"id": "5ac6a9b545b490359bb12533",
 			"name": "RADA 5 Kombi",
-			"order": 1250,
+			"order": 1260,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": true
@@ -21019,7 +21031,7 @@
 		{
 			"id": "5b27e21a45b490523ac54166",
 			"name": "RADA 5 GRAN TURISMO",
-			"order": 1260,
+			"order": 1270,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": true
@@ -21085,7 +21097,7 @@
 		{
 			"id": "5ac6a9b545b490359bb12534",
 			"name": "RADA 6",
-			"order": 1270,
+			"order": 1280,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": true
@@ -21131,7 +21143,7 @@
 		{
 			"id": "5ac6a9b545b490359bb12535",
 			"name": "RADA 6 KABRIO",
-			"order": 1280,
+			"order": 1290,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": true
@@ -21185,7 +21197,7 @@
 		{
 			"id": "5ac6a9b545b490359bb12536",
 			"name": "RADA 6 Kupé",
-			"order": 1290,
+			"order": 1300,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": true
@@ -21235,7 +21247,7 @@
 		{
 			"id": "5b27e21a45b490523ac54168",
 			"name": "RADA 6 GRAN Coupé",
-			"order": 1300,
+			"order": 1310,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": true
@@ -21273,7 +21285,7 @@
 		{
 			"id": "5bf60dac45b4903ac237ee77",
 			"name": "RADA 6 GRAN TURISMO",
-			"order": 1310,
+			"order": 1320,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": true
@@ -21319,7 +21331,7 @@
 		{
 			"id": "5b27e21a45b490523ac54167",
 			"name": "RADA 6 LET Cabrio",
-			"order": 1320,
+			"order": 1330,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": false
@@ -21331,7 +21343,7 @@
 		{
 			"id": "5ac6a9b545b490359bb12537",
 			"name": "RADA 7",
-			"order": 1330,
+			"order": 1340,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": true
@@ -21485,7 +21497,7 @@
 		{
 			"id": "602ecef845b4902e6f7273ad",
 			"name": "RADA 7 L",
-			"order": 1340,
+			"order": 1350,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": true
@@ -21497,7 +21509,7 @@
 		{
 			"id": "5ac6a9b545b490359bb12538",
 			"name": "RADA 8 Kupé",
-			"order": 1350,
+			"order": 1360,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": true
@@ -21509,7 +21521,7 @@
 		{
 			"id": "5c05dfa745b49028f7b957c6",
 			"name": "RADA 8 Kombi",
-			"order": 1360,
+			"order": 1370,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": false
@@ -21543,7 +21555,7 @@
 		{
 			"id": "5c81cca845b490091401e3e2",
 			"name": "RADA 8 KABRIO",
-			"order": 1370,
+			"order": 1380,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": true
@@ -21569,7 +21581,7 @@
 		{
 			"id": "5cdf592045b49058a2e901a6",
 			"name": "RADA 8",
-			"order": 1380,
+			"order": 1390,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": true
@@ -21603,7 +21615,7 @@
 		{
 			"id": "602ecef845b4902e6f7273ae",
 			"name": "RADA 8 GRAN Coupé",
-			"order": 1390,
+			"order": 1400,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": true
@@ -21615,7 +21627,7 @@
 		{
 			"id": "602ecef845b4902e6f7273ac",
 			"name": "RADA 8 LET Cabrio",
-			"order": 1400,
+			"order": 1410,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": false
@@ -21627,7 +21639,7 @@
 		{
 			"id": "63169ba045b4903d8f029f50",
 			"name": "RADA 9",
-			"order": 1410,
+			"order": 1420,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": false
@@ -21639,7 +21651,7 @@
 		{
 			"id": "5ac6a9b545b490359bb12523",
 			"name": "RADA I3",
-			"order": 1420,
+			"order": 1430,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": true
@@ -21651,7 +21663,7 @@
 		{
 			"id": "6235396b45b4902b9f8e21e1",
 			"name": "RADA I4",
-			"order": 1430,
+			"order": 1440,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": true
@@ -21663,7 +21675,7 @@
 		{
 			"id": "5ac6a9b545b490359bb12524",
 			"name": "RADA I8",
-			"order": 1440,
+			"order": 1450,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": true
@@ -21675,7 +21687,7 @@
 		{
 			"id": "6235396b45b4902b9f8e21e3",
 			"name": "RADA IX XDRIVE 40",
-			"order": 1450,
+			"order": 1460,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": true
@@ -21687,7 +21699,7 @@
 		{
 			"id": "6235396b45b4902b9f8e21e2",
 			"name": "RADA IX3",
-			"order": 1460,
+			"order": 1470,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": true
@@ -21699,7 +21711,7 @@
 		{
 			"id": "627cb1d1424d3f22f06254ec",
 			"name": "RADA M1",
-			"order": 1470,
+			"order": 1480,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": false
@@ -21711,7 +21723,7 @@
 		{
 			"id": "627cbf0345b49040540fc35e",
 			"name": "RADA M1 135i",
-			"order": 1480,
+			"order": 1490,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": false
@@ -21723,7 +21735,7 @@
 		{
 			"id": "627cc2ab45b49057d10fc36e",
 			"name": "RADA M1 135i XDRIVE",
-			"order": 1490,
+			"order": 1500,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": false
@@ -21735,7 +21747,7 @@
 		{
 			"id": "627cb10945b49019fc0fc372",
 			"name": "RADA M2",
-			"order": 1500,
+			"order": 1510,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": true
@@ -21747,7 +21759,7 @@
 		{
 			"id": "5d85542d45b4903cbc377fbe",
 			"name": "RADA M3",
-			"order": 1510,
+			"order": 1520,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": true
@@ -21759,7 +21771,7 @@
 		{
 			"id": "5d85542d45b4903cbc377fbf",
 			"name": "RADA M4",
-			"order": 1520,
+			"order": 1530,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": true
@@ -21771,7 +21783,7 @@
 		{
 			"id": "5d85542d45b4903cbc377fc0",
 			"name": "RADA M5",
-			"order": 1530,
+			"order": 1540,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": true
@@ -21783,7 +21795,7 @@
 		{
 			"id": "5d85542d45b4903cbc377fc1",
 			"name": "RADA M6",
-			"order": 1540,
+			"order": 1550,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": true
@@ -21795,7 +21807,7 @@
 		{
 			"id": "6567398e45b49012f50c2e3e",
 			"name": "RADA M760LI XDRIVE",
-			"order": 1550,
+			"order": 1560,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": false
@@ -21807,7 +21819,7 @@
 		{
 			"id": "5ac6a9b545b490359bb12539",
 			"name": "RADA X1",
-			"order": 1560,
+			"order": 1570,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": true
@@ -21889,7 +21901,7 @@
 		{
 			"id": "6244181f424d3f7d2abb1802",
 			"name": "RADA X2",
-			"order": 1570,
+			"order": 1580,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": true
@@ -21947,7 +21959,7 @@
 		{
 			"id": "5ac6a9b545b490359bb1253a",
 			"name": "RADA X3",
-			"order": 1580,
+			"order": 1590,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": true
@@ -22057,7 +22069,7 @@
 		{
 			"id": "5ac6a9b545b490359bb1253b",
 			"name": "RADA X4",
-			"order": 1590,
+			"order": 1600,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": true
@@ -22119,7 +22131,7 @@
 		{
 			"id": "5c05dfa745b49028f7b957c7",
 			"name": "RADA X4 Kombi",
-			"order": 1600,
+			"order": 1610,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": false
@@ -22181,7 +22193,7 @@
 		{
 			"id": "5ac6a9b545b490359bb1253c",
 			"name": "RADA X5",
-			"order": 1610,
+			"order": 1620,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": true
@@ -22267,7 +22279,7 @@
 		{
 			"id": "5ac6a9b545b490359bb1253d",
 			"name": "RADA X5 Kombi",
-			"order": 1620,
+			"order": 1630,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": false
@@ -22353,7 +22365,7 @@
 		{
 			"id": "62a6d6e645b4905646a25057",
 			"name": "RADA X5 M",
-			"order": 1630,
+			"order": 1640,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": false
@@ -22365,7 +22377,7 @@
 		{
 			"id": "65853cb6424d3f1f20588c63",
 			"name": "RADA X5 XDRIVE50E",
-			"order": 1640,
+			"order": 1650,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": true
@@ -22377,7 +22389,7 @@
 		{
 			"id": "5ac6a9b545b490359bb1253e",
 			"name": "RADA X6",
-			"order": 1650,
+			"order": 1660,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": true
@@ -22435,7 +22447,7 @@
 		{
 			"id": "623bd0b245b490175e792795",
 			"name": "RADA X6 Kombi",
-			"order": 1660,
+			"order": 1670,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": false
@@ -22493,7 +22505,7 @@
 		{
 			"id": "5c05dfa745b49028f7b957c8",
 			"name": "RADA X7 Kombi",
-			"order": 1670,
+			"order": 1680,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": false
@@ -22531,7 +22543,7 @@
 		{
 			"id": "62441954424d3f7d2abb180f",
 			"name": "RADA X7",
-			"order": 1680,
+			"order": 1690,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": true
@@ -22569,7 +22581,7 @@
 		{
 			"id": "5ac6a9b545b490359bb1253f",
 			"name": "RADA Z1 KABRIO",
-			"order": 1690,
+			"order": 1700,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": true
@@ -22581,7 +22593,7 @@
 		{
 			"id": "5ac6a9b545b490359bb12540",
 			"name": "RADA Z3 KABRIO",
-			"order": 1700,
+			"order": 1710,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": false
@@ -22611,7 +22623,7 @@
 		{
 			"id": "5ac6a9b545b490359bb12541",
 			"name": "RADA Z3 Roadster",
-			"order": 1710,
+			"order": 1720,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": true
@@ -22623,7 +22635,7 @@
 		{
 			"id": "5ac6a9ba45b490359bb12a64",
 			"name": "RADA Z3 Coupé",
-			"order": 1720,
+			"order": 1730,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": true
@@ -22661,7 +22673,7 @@
 		{
 			"id": "6528df1045b49036b3252c17",
 			"name": "RADA Z3",
-			"order": 1730,
+			"order": 1740,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": true
@@ -22673,7 +22685,7 @@
 		{
 			"id": "5ac6a9b545b490359bb12542",
 			"name": "RADA Z4 KABRIO",
-			"order": 1740,
+			"order": 1750,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": false
@@ -22735,7 +22747,7 @@
 		{
 			"id": "5ac6a9ba45b490359bb12a65",
 			"name": "RADA Z4 Coupé",
-			"order": 1750,
+			"order": 1760,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": true
@@ -22805,7 +22817,7 @@
 		{
 			"id": "5ac6a9ba45b490359bb12a66",
 			"name": "RADA Z4 Roadster",
-			"order": 1760,
+			"order": 1770,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": true
@@ -22817,7 +22829,7 @@
 		{
 			"id": "5ac6a9b545b490359bb12543",
 			"name": "RADA Z8 KABRIO",
-			"order": 1770,
+			"order": 1780,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": false
@@ -22829,7 +22841,7 @@
 		{
 			"id": "5cdf592045b49058a2e901a7",
 			"name": "RADA Z8",
-			"order": 1780,
+			"order": 1790,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": true
@@ -22851,7 +22863,7 @@
 		{
 			"id": "623bd0b245b490175e792794",
 			"name": "RADA iX3 SUV",
-			"order": 1790,
+			"order": 1800,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": false
@@ -22863,7 +22875,7 @@
 		{
 			"id": "60c3cec145b490293d477cc7",
 			"name": "S 1000 R",
-			"order": 1800,
+			"order": 1810,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -22875,7 +22887,7 @@
 		{
 			"id": "623c95b945b49014a22aa1f2",
 			"name": "S 1000 RR",
-			"order": 1810,
+			"order": 1820,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -22887,7 +22899,7 @@
 		{
 			"id": "60c3cec145b490293d477cd3",
 			"name": "S 1000 XR",
-			"order": 1820,
+			"order": 1830,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -22899,7 +22911,7 @@
 		{
 			"id": "64e5bb4045b4907ecfc7fdc5",
 			"name": "XM",
-			"order": 1830,
+			"order": 1840,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": true
@@ -29377,10 +29389,10 @@
 			"order": 260,
 			"vehicle_type": "car",
 			"europ_assistance": {
-				"active": false
+				"active": true
 			},
 			"insia": {
-				"active": false
+				"active": true
 			}
 		},
 		{
@@ -42387,9 +42399,21 @@
 	"order": 740,
 	"models": [
 		{
+			"id": "6655702345b4903c40e57834",
+			"name": "BT-49QT-20",
+			"order": 10,
+			"vehicle_type": "motorcycle",
+			"europ_assistance": {
+				"active": true
+			},
+			"insia": {
+				"active": true
+			}
+		},
+		{
 			"id": "625fe7bf45b490454df1034f",
 			"name": "BT49QT-12",
-			"order": 10,
+			"order": 20,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -42401,7 +42425,7 @@
 		{
 			"id": "665480cd45b4904301e57831",
 			"name": "BT49QT-9",
-			"order": 20,
+			"order": 30,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -49873,9 +49897,21 @@
 			}
 		},
 		{
+			"id": "66559800424d3f1a8c8dc3b2",
+			"name": "SPORT 1000 S",
+			"order": 1070,
+			"vehicle_type": "motorcycle",
+			"europ_assistance": {
+				"active": true
+			},
+			"insia": {
+				"active": true
+			}
+		},
+		{
 			"id": "62a735e345b49070e4a25061",
 			"name": "ST 3",
-			"order": 1070,
+			"order": 1080,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -49887,7 +49923,7 @@
 		{
 			"id": "60c3cec145b490293d477d54",
 			"name": "STREETFIGHTER 848",
-			"order": 1080,
+			"order": 1090,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -49909,7 +49945,7 @@
 		{
 			"id": "660120a4424d3f385bf3aea8",
 			"name": "STREETFIGHTER V2",
-			"order": 1090,
+			"order": 1100,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -49921,7 +49957,7 @@
 		{
 			"id": "6603c704424d3f7de2f3aed3",
 			"name": "STREETFIGHTER V4 S",
-			"order": 1100,
+			"order": 1110,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -49933,7 +49969,7 @@
 		{
 			"id": "653b840a45b49077c5252c46",
 			"name": "STREETFIGHTER V4 SP2",
-			"order": 1110,
+			"order": 1120,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -49945,7 +49981,7 @@
 		{
 			"id": "60c3cec145b490293d477d3a",
 			"name": "SUPERSPORT",
-			"order": 1120,
+			"order": 1130,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -49957,7 +49993,7 @@
 		{
 			"id": "60c3cec145b490293d477d4e",
 			"name": "SUPERSPORT S",
-			"order": 1130,
+			"order": 1140,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -49969,7 +50005,7 @@
 		{
 			"id": "60c3cec145b490293d477d5a",
 			"name": "XDIAVEL",
-			"order": 1140,
+			"order": 1150,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -49981,7 +50017,7 @@
 		{
 			"id": "60c3cec145b490293d477d2f",
 			"name": "XDIAVEL S",
-			"order": 1150,
+			"order": 1160,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -53857,9 +53893,21 @@
 			}
 		},
 		{
+			"id": "6655ce7245b4901cd2e57842",
+			"name": "CRUISE II (GA 125F)",
+			"order": 30,
+			"vehicle_type": "motorcycle",
+			"europ_assistance": {
+				"active": true
+			},
+			"insia": {
+				"active": true
+			}
+		},
+		{
 			"id": "63c542b445b49033e9aca44d",
 			"name": "SF 50",
-			"order": 30,
+			"order": 40,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -53871,7 +53919,7 @@
 		{
 			"id": "6593d652424d3f1045acfff7",
 			"name": "XRX 125",
-			"order": 40,
+			"order": 50,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -53955,9 +54003,21 @@
 			}
 		},
 		{
+			"id": "6655ba3745b4901561e57895",
+			"name": "FTR R CARBON",
+			"order": 30,
+			"vehicle_type": "motorcycle",
+			"europ_assistance": {
+				"active": true
+			},
+			"insia": {
+				"active": true
+			}
+		},
+		{
 			"id": "64535601424d3f6d6274bf41",
 			"name": "ROADMASTER",
-			"order": 30,
+			"order": 40,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -53969,7 +54029,7 @@
 		{
 			"id": "60c3cec045b490293d477bdc",
 			"name": "SCOUT",
-			"order": 40,
+			"order": 50,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -53981,7 +54041,7 @@
 		{
 			"id": "60c3cec045b490293d477bde",
 			"name": "SPRINGFIELD DARK HORSE",
-			"order": 50,
+			"order": 60,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -55161,7 +55221,7 @@
 			"order": 120,
 			"vehicle_type": "car",
 			"europ_assistance": {
-				"active": true
+				"active": false
 			},
 			"insia": {
 				"active": true
@@ -56445,9 +56505,21 @@
 			}
 		},
 		{
+			"id": "665970e745b4905fee953543",
+			"name": "KZ 250 C",
+			"order": 220,
+			"vehicle_type": "motorcycle",
+			"europ_assistance": {
+				"active": true
+			},
+			"insia": {
+				"active": true
+			}
+		},
+		{
 			"id": "6630c52e45b4907209ffdfee",
 			"name": "KZ 550 DE",
-			"order": 220,
+			"order": 230,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -56459,7 +56531,7 @@
 		{
 			"id": "649410e945b4906c41538950",
 			"name": "KZ 750 H",
-			"order": 230,
+			"order": 240,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -56471,7 +56543,7 @@
 		{
 			"id": "6645f95c45b4906c0fad298b",
 			"name": "NINJA 1000 SX",
-			"order": 240,
+			"order": 250,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -56483,7 +56555,7 @@
 		{
 			"id": "60c3cec145b490293d477ca3",
 			"name": "NINJA 125",
-			"order": 250,
+			"order": 260,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -56495,7 +56567,7 @@
 		{
 			"id": "62d1305045b49005d0d871ab",
 			"name": "NINJA 250",
-			"order": 260,
+			"order": 270,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -56507,7 +56579,7 @@
 		{
 			"id": "60c3cec045b490293d477c92",
 			"name": "NINJA 300",
-			"order": 270,
+			"order": 280,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -56519,7 +56591,7 @@
 		{
 			"id": "60c3cec145b490293d477ca4",
 			"name": "NINJA 400",
-			"order": 280,
+			"order": 290,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -56531,7 +56603,7 @@
 		{
 			"id": "60c3cec045b490293d477c8b",
 			"name": "NINJA 650",
-			"order": 290,
+			"order": 300,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -56543,7 +56615,7 @@
 		{
 			"id": "60c3cec145b490293d477ca9",
 			"name": "NINJA H2",
-			"order": 300,
+			"order": 310,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -56555,7 +56627,7 @@
 		{
 			"id": "60c3cec045b490293d477c8f",
 			"name": "NINJA H2 SX",
-			"order": 310,
+			"order": 320,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -56567,7 +56639,7 @@
 		{
 			"id": "60c3cec045b490293d477c96",
 			"name": "NINJA H2 SX SE",
-			"order": 320,
+			"order": 330,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -56589,7 +56661,7 @@
 		{
 			"id": "62bd433d45b4902cba061013",
 			"name": "NINJA ZX-10R",
-			"order": 330,
+			"order": 340,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -56601,7 +56673,7 @@
 		{
 			"id": "625e5b4345b4903385963662",
 			"name": "NINJA ZX-6R",
-			"order": 340,
+			"order": 350,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -56613,7 +56685,7 @@
 		{
 			"id": "62848c19424d3f12546254d2",
 			"name": "VERSYS 1000",
-			"order": 350,
+			"order": 360,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -56625,7 +56697,7 @@
 		{
 			"id": "625e682545b4906109963623",
 			"name": "VERSYS 650",
-			"order": 360,
+			"order": 370,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -56637,7 +56709,7 @@
 		{
 			"id": "65689ab945b4907c300c2e2c",
 			"name": "VN 1500 CLASIC",
-			"order": 370,
+			"order": 380,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -56649,7 +56721,7 @@
 		{
 			"id": "64be4fd745b49017fff9ee3f",
 			"name": "VN 1500 MEAN STREAK",
-			"order": 380,
+			"order": 390,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -56661,7 +56733,7 @@
 		{
 			"id": "633d95bf424d3f34ee264385",
 			"name": "VN 2000",
-			"order": 390,
+			"order": 400,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -56673,7 +56745,7 @@
 		{
 			"id": "635f730945b49010f7349d96",
 			"name": "VN 800 CLASSIC",
-			"order": 400,
+			"order": 410,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -56685,7 +56757,7 @@
 		{
 			"id": "60c3cec045b490293d477c94",
 			"name": "VULCAN 1700 NOMAD",
-			"order": 410,
+			"order": 420,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -56697,7 +56769,7 @@
 		{
 			"id": "641470a945b4903ac8ca1bb3",
 			"name": "VULCAN 1700 VOYAGER",
-			"order": 420,
+			"order": 430,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -56709,7 +56781,7 @@
 		{
 			"id": "60c3cec045b490293d477c93",
 			"name": "VULCAN 900 CLASSIC",
-			"order": 430,
+			"order": 440,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -56721,7 +56793,7 @@
 		{
 			"id": "60c3cec045b490293d477c90",
 			"name": "VULCAN 900 CUSTOM",
-			"order": 440,
+			"order": 450,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -56733,7 +56805,7 @@
 		{
 			"id": "60c3cec045b490293d477c8a",
 			"name": "VULCAN S",
-			"order": 450,
+			"order": 460,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -56745,7 +56817,7 @@
 		{
 			"id": "60c3cec045b490293d477c9e",
 			"name": "W 650",
-			"order": 460,
+			"order": 470,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -56757,7 +56829,7 @@
 		{
 			"id": "60c3cec045b490293d477c9a",
 			"name": "W 800",
-			"order": 470,
+			"order": 480,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -56769,7 +56841,7 @@
 		{
 			"id": "60c3cec045b490293d477c8e",
 			"name": "Z 1000",
-			"order": 480,
+			"order": 490,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -56791,7 +56863,7 @@
 		{
 			"id": "60c3cec045b490293d477c91",
 			"name": "Z 1000 R",
-			"order": 490,
+			"order": 500,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -56803,7 +56875,7 @@
 		{
 			"id": "60c3cec145b490293d477ca6",
 			"name": "Z 1000 SX",
-			"order": 500,
+			"order": 510,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -56815,7 +56887,7 @@
 		{
 			"id": "60c3cec145b490293d477ca7",
 			"name": "Z 125",
-			"order": 510,
+			"order": 520,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -56837,7 +56909,7 @@
 		{
 			"id": "62a6e10245b4901aeba25082",
 			"name": "Z 1300",
-			"order": 520,
+			"order": 530,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -56849,7 +56921,7 @@
 		{
 			"id": "60c3cec045b490293d477c97",
 			"name": "Z 300",
-			"order": 530,
+			"order": 540,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -56871,7 +56943,7 @@
 		{
 			"id": "60c3cec145b490293d477ca8",
 			"name": "Z 400",
-			"order": 540,
+			"order": 550,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -56893,7 +56965,7 @@
 		{
 			"id": "60c3cec045b490293d477c8c",
 			"name": "Z 650",
-			"order": 550,
+			"order": 560,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -56915,7 +56987,7 @@
 		{
 			"id": "650d87f745b4904ba4ba6b22",
 			"name": "Z 650 RS",
-			"order": 560,
+			"order": 570,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -56927,7 +56999,7 @@
 		{
 			"id": "60c3cec045b490293d477c9d",
 			"name": "Z 750",
-			"order": 570,
+			"order": 580,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -56949,7 +57021,7 @@
 		{
 			"id": "60c3cec045b490293d477ca0",
 			"name": "Z 750 R",
-			"order": 580,
+			"order": 590,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -56961,7 +57033,7 @@
 		{
 			"id": "60c3cec045b490293d477c9f",
 			"name": "Z 750 S",
-			"order": 590,
+			"order": 600,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -56973,7 +57045,7 @@
 		{
 			"id": "60c3cec145b490293d477caa",
 			"name": "Z 800",
-			"order": 600,
+			"order": 610,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -56995,7 +57067,7 @@
 		{
 			"id": "60c3cec045b490293d477c98",
 			"name": "Z 900",
-			"order": 610,
+			"order": 620,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -57017,7 +57089,7 @@
 		{
 			"id": "60c3cec045b490293d477c9b",
 			"name": "Z 900 RS",
-			"order": 620,
+			"order": 630,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -57029,7 +57101,7 @@
 		{
 			"id": "63c94346424d3f17c532c35b",
 			"name": "Z H2",
-			"order": 630,
+			"order": 640,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -57041,7 +57113,7 @@
 		{
 			"id": "6576b2fa424d3f141ebdc44e",
 			"name": "ZEPHYR",
-			"order": 640,
+			"order": 650,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -57053,7 +57125,7 @@
 		{
 			"id": "60c3cec045b490293d477c9c",
 			"name": "ZR-7",
-			"order": 650,
+			"order": 660,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -57065,7 +57137,7 @@
 		{
 			"id": "6362171e45b49053e2349da6",
 			"name": "ZRX 1100",
-			"order": 660,
+			"order": 670,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -57077,7 +57149,7 @@
 		{
 			"id": "62b5ad4045b4900fcf6c3a7e",
 			"name": "ZRX 1200",
-			"order": 670,
+			"order": 680,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -57089,7 +57161,7 @@
 		{
 			"id": "63b53c6b424d3f2a67f8c179",
 			"name": "ZX 600 J",
-			"order": 680,
+			"order": 690,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -57101,7 +57173,7 @@
 		{
 			"id": "63ce587c45b4906079525524",
 			"name": "ZX 750 H",
-			"order": 690,
+			"order": 700,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -57113,7 +57185,7 @@
 		{
 			"id": "62d130f9424d3f11fa776294",
 			"name": "ZX 900",
-			"order": 700,
+			"order": 710,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -57125,7 +57197,7 @@
 		{
 			"id": "6523c377424d3f567c57fdde",
 			"name": "ZXR 750",
-			"order": 710,
+			"order": 720,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -57137,7 +57209,7 @@
 		{
 			"id": "64e3142945b490553fc0f12b",
 			"name": "ZZR 1400",
-			"order": 720,
+			"order": 730,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -57149,7 +57221,7 @@
 		{
 			"id": "63fc7a2145b490721072b687",
 			"name": "ZZR600",
-			"order": 730,
+			"order": 740,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -60100,7 +60172,7 @@
 			"order": 90,
 			"vehicle_type": "car",
 			"europ_assistance": {
-				"active": true
+				"active": false
 			},
 			"insia": {
 				"active": true
@@ -60124,7 +60196,7 @@
 			"order": 110,
 			"vehicle_type": "car",
 			"europ_assistance": {
-				"active": true
+				"active": false
 			},
 			"insia": {
 				"active": true
@@ -61069,7 +61141,7 @@
 			"order": 120,
 			"vehicle_type": "car",
 			"europ_assistance": {
-				"active": true
+				"active": false
 			},
 			"insia": {
 				"active": true
@@ -61081,7 +61153,7 @@
 			"order": 130,
 			"vehicle_type": "car",
 			"europ_assistance": {
-				"active": true
+				"active": false
 			},
 			"insia": {
 				"active": true
@@ -61093,7 +61165,7 @@
 			"order": 140,
 			"vehicle_type": "car",
 			"europ_assistance": {
-				"active": true
+				"active": false
 			},
 			"insia": {
 				"active": true
@@ -61105,7 +61177,7 @@
 			"order": 150,
 			"vehicle_type": "car",
 			"europ_assistance": {
-				"active": true
+				"active": false
 			},
 			"insia": {
 				"active": true
@@ -61117,7 +61189,7 @@
 			"order": 160,
 			"vehicle_type": "car",
 			"europ_assistance": {
-				"active": true
+				"active": false
 			},
 			"insia": {
 				"active": true
@@ -61129,7 +61201,7 @@
 			"order": 170,
 			"vehicle_type": "car",
 			"europ_assistance": {
-				"active": true
+				"active": false
 			},
 			"insia": {
 				"active": true
@@ -61141,7 +61213,7 @@
 			"order": 180,
 			"vehicle_type": "car",
 			"europ_assistance": {
-				"active": true
+				"active": false
 			},
 			"insia": {
 				"active": true
@@ -61153,7 +61225,7 @@
 			"order": 190,
 			"vehicle_type": "car",
 			"europ_assistance": {
-				"active": true
+				"active": false
 			},
 			"insia": {
 				"active": true
@@ -61165,7 +61237,7 @@
 			"order": 200,
 			"vehicle_type": "car",
 			"europ_assistance": {
-				"active": true
+				"active": false
 			},
 			"insia": {
 				"active": true
@@ -61189,7 +61261,7 @@
 			"order": 220,
 			"vehicle_type": "car",
 			"europ_assistance": {
-				"active": true
+				"active": false
 			},
 			"insia": {
 				"active": true
@@ -61201,7 +61273,7 @@
 			"order": 230,
 			"vehicle_type": "car",
 			"europ_assistance": {
-				"active": true
+				"active": false
 			},
 			"insia": {
 				"active": true
@@ -62706,9 +62778,28 @@
 	]
 },
 {
+	"name": "MERCEDES ",
+	"logo": "mercedes-.png",
+	"order": 2720,
+	"models": [
+		{
+			"id": "66597355424d3f3d88a0b6c2",
+			"name": "A 250",
+			"order": 10,
+			"vehicle_type": "car",
+			"europ_assistance": {
+				"active": false
+			},
+			"insia": {
+				"active": true
+			}
+		}
+	]
+},
+{
 	"name": "MERCURY",
 	"logo": "mercury.png",
-	"order": 2720,
+	"order": 2730,
 	"models": [
 		{
 			"id": "6235396b45b4902b9f8e2285",
@@ -62775,7 +62866,7 @@
 {
 	"name": "MG",
 	"logo": "mg.png",
-	"order": 2730,
+	"order": 2740,
 	"models": [
 		{
 			"id": "648303b5424d3f639e83b887",
@@ -62890,7 +62981,7 @@
 {
 	"name": "MGF",
 	"logo": "mgf.png",
-	"order": 2740,
+	"order": 2750,
 	"models": [
 		{
 			"id": "645e415c424d3f0ee8183e27",
@@ -62909,7 +63000,7 @@
 {
 	"name": "MIKU",
 	"logo": "miku.png",
-	"order": 2750,
+	"order": 2760,
 	"models": [
 		{
 			"id": "626b896145b490658ef1039a",
@@ -62928,7 +63019,7 @@
 {
 	"name": "MIROSMET",
 	"logo": "mirosmet.png",
-	"order": 2760,
+	"order": 2770,
 	"models": [
 		{
 			"id": "5d85542c45b4903cbc377d07",
@@ -62959,7 +63050,7 @@
 {
 	"name": "MITSUBISHI FUSO",
 	"logo": "mitsubishi-fuso.png",
-	"order": 2770,
+	"order": 2780,
 	"models": [
 		{
 			"id": "5ac6a9bc45b490359bb12be0",
@@ -62990,7 +63081,7 @@
 {
 	"name": "MOBILVETTA",
 	"logo": "mobilvetta.png",
-	"order": 2780,
+	"order": 2790,
 	"models": [
 		{
 			"id": "6235396b45b4902b9f8e2169",
@@ -63105,7 +63196,7 @@
 {
 	"name": "MONDIAL",
 	"logo": "f.b-mondial.png",
-	"order": 2790,
+	"order": 2800,
 	"models": [
 		{
 			"id": "64bf87de424d3f4b833f18cb",
@@ -63124,7 +63215,7 @@
 {
 	"name": "MORELO",
 	"logo": "morelo.png",
-	"order": 2800,
+	"order": 2810,
 	"models": [
 		{
 			"id": "6235396b45b4902b9f8e21d3",
@@ -63215,7 +63306,7 @@
 {
 	"name": "MORGAN",
 	"logo": "morgan.png",
-	"order": 2810,
+	"order": 2820,
 	"models": [
 		{
 			"id": "5d85542d45b4903cbc377f7c",
@@ -63258,7 +63349,7 @@
 {
 	"name": "MOSKVIČ",
 	"logo": "moskvic.png",
-	"order": 2820,
+	"order": 2830,
 	"models": [
 		{
 			"id": "65364842424d3f6cf0129d75",
@@ -63325,7 +63416,7 @@
 {
 	"name": "MOSKVIč",
 	"logo": "moskvic.png",
-	"order": 2830,
+	"order": 2840,
 	"models": [
 		{
 			"id": "5d85542d45b4903cbc377ff9",
@@ -63368,7 +63459,7 @@
 {
 	"name": "MOTO GUZZI",
 	"logo": "moto-guzzi.png",
-	"order": 2840,
+	"order": 2850,
 	"models": [
 		{
 			"id": "60c3cec245b490293d477d97",
@@ -63723,7 +63814,7 @@
 {
 	"name": "MOTO MORINI",
 	"logo": "moto-morini.png",
-	"order": 2850,
+	"order": 2860,
 	"models": [
 		{
 			"id": "60c3cec145b490293d477d13",
@@ -63766,7 +63857,7 @@
 {
 	"name": "MOTO UNION",
 	"logo": "moto-union.png",
-	"order": 2860,
+	"order": 2870,
 	"models": [
 		{
 			"id": "5d85542d45b4903cbc377df4",
@@ -63821,7 +63912,7 @@
 {
 	"name": "MOTORRO ",
 	"logo": "motorro-.png",
-	"order": 2870,
+	"order": 2880,
 	"models": [
 		{
 			"id": "6645dc0545b490478bad29cb",
@@ -63840,7 +63931,7 @@
 {
 	"name": "MOTOWELL",
 	"logo": "motowell.png",
-	"order": 2880,
+	"order": 2890,
 	"models": [
 		{
 			"id": "60c3cebf45b490293d477b8c",
@@ -63931,7 +64022,7 @@
 {
 	"name": "MPM",
 	"logo": "mpm.png",
-	"order": 2890,
+	"order": 2900,
 	"models": [
 		{
 			"id": "6235396b45b4902b9f8e2165",
@@ -63974,7 +64065,7 @@
 {
 	"name": "MTX",
 	"logo": "mtx.png",
-	"order": 2900,
+	"order": 2910,
 	"models": [
 		{
 			"id": "5ac6a9b745b490359bb127b9",
@@ -64029,7 +64120,7 @@
 {
 	"name": "MULTICAR",
 	"logo": "multicar.png",
-	"order": 2910,
+	"order": 2920,
 	"models": [
 		{
 			"id": "5d85542d45b4903cbc377ea3",
@@ -64168,7 +64259,7 @@
 {
 	"name": "MUZ",
 	"logo": "muz.png",
-	"order": 2920,
+	"order": 2930,
 	"models": [
 		{
 			"id": "665059f445b490537df9046b",
@@ -64187,7 +64278,7 @@
 {
 	"name": "MV AGUSTA",
 	"logo": "mv-agusta.png",
-	"order": 2930,
+	"order": 2940,
 	"models": [
 		{
 			"id": "60c3cec045b490293d477be2",
@@ -64326,7 +64417,7 @@
 {
 	"name": "MZ",
 	"logo": "mz.png",
-	"order": 2940,
+	"order": 2950,
 	"models": [
 		{
 			"id": "60c3cec145b490293d477d18",
@@ -64417,7 +64508,7 @@
 {
 	"name": "NEOPLAN",
 	"logo": "neoplan.png",
-	"order": 2950,
+	"order": 2960,
 	"models": [
 		{
 			"id": "5d85542d45b4903cbc377d8c",
@@ -64568,7 +64659,7 @@
 {
 	"name": "NIESMANN+BISCHOFF",
 	"logo": "niesmann+bischoff.png",
-	"order": 2960,
+	"order": 2970,
 	"models": [
 		{
 			"id": "6235396b45b4902b9f8e2241",
@@ -64635,7 +64726,7 @@
 {
 	"name": "NIU",
 	"logo": "niu.png",
-	"order": 2970,
+	"order": 2980,
 	"models": [
 		{
 			"id": "60c3cec245b490293d477da7",
@@ -64666,7 +64757,7 @@
 {
 	"name": "NOBEL ART",
 	"logo": "nobel-art.png",
-	"order": 2980,
+	"order": 2990,
 	"models": [
 		{
 			"id": "6235396b45b4902b9f8e22f7",
@@ -64697,7 +64788,7 @@
 {
 	"name": "NORTON",
 	"logo": "norton.png",
-	"order": 2990,
+	"order": 3000,
 	"models": [
 		{
 			"id": "636cb6d5424d3f538be9d965",
@@ -64716,7 +64807,7 @@
 {
 	"name": "NOTIN",
 	"logo": "notin.png",
-	"order": 3000,
+	"order": 3010,
 	"models": [
 		{
 			"id": "63169ba345b4903d8f029f59",
@@ -64783,7 +64874,7 @@
 {
 	"name": "OLDSMOBILE",
 	"logo": "oldsmobile.png",
-	"order": 3010,
+	"order": 3020,
 	"models": [
 		{
 			"id": "5d85542c45b4903cbc377beb",
@@ -64886,7 +64977,7 @@
 {
 	"name": "OLTCIT",
 	"logo": "oltcit.png",
-	"order": 3020,
+	"order": 3030,
 	"models": [
 		{
 			"id": "5ac6a9bc45b490359bb12bf4",
@@ -64929,7 +65020,7 @@
 {
 	"name": "ORANGE CAMP",
 	"logo": "orange-camp.png",
-	"order": 3030,
+	"order": 3040,
 	"models": [
 		{
 			"id": "6235396b45b4902b9f8e22ab",
@@ -64972,7 +65063,7 @@
 {
 	"name": "OSTATNÍ NEREGISTROVANÉ",
 	"logo": "ostatni-neregistrovane.png",
-	"order": 3040,
+	"order": 3050,
 	"models": [
 		{
 			"id": "660bdd4e45b490558c3acb60",
@@ -64991,7 +65082,7 @@
 {
 	"name": "PETERBILT",
 	"logo": "peterbilt.png",
-	"order": 3050,
+	"order": 3060,
 	"models": [
 		{
 			"id": "6235396b45b4902b9f8e21e6",
@@ -65034,7 +65125,7 @@
 {
 	"name": "PFAU",
 	"logo": "pfau.png",
-	"order": 3060,
+	"order": 3070,
 	"models": [
 		{
 			"id": "5d85542d45b4903cbc377f68",
@@ -65065,7 +65156,7 @@
 {
 	"name": "PGO",
 	"logo": "pgo.png",
-	"order": 3070,
+	"order": 3080,
 	"models": [
 		{
 			"id": "5ac6a9bd45b490359bb12c23",
@@ -65132,7 +65223,7 @@
 {
 	"name": "PHOENIX",
 	"logo": "phoenix.png",
-	"order": 3080,
+	"order": 3090,
 	"models": [
 		{
 			"id": "5c95932d45b49025c770b37d",
@@ -65151,7 +65242,7 @@
 {
 	"name": "PIAGGIO",
 	"logo": "piaggio.png",
-	"order": 3090,
+	"order": 3100,
 	"models": [
 		{
 			"id": "65fd599345b4905d3dd7ef52",
@@ -65782,7 +65873,7 @@
 {
 	"name": "PIAGGIO PORTER",
 	"logo": "piaggio-porter.png",
-	"order": 3100,
+	"order": 3110,
 	"models": [
 		{
 			"id": "5ac6a9b845b490359bb12879",
@@ -65801,7 +65892,7 @@
 {
 	"name": "PILOTE",
 	"logo": "pilote.png",
-	"order": 3110,
+	"order": 3120,
 	"models": [
 		{
 			"id": "6235396b45b4902b9f8e22dc",
@@ -65880,12 +65971,24 @@
 {
 	"name": "PIONEER",
 	"logo": "pioneer.png",
-	"order": 3120,
+	"order": 3130,
 	"models": [
+		{
+			"id": "66596c7945b490483095354a",
+			"name": " XF250ATV-2",
+			"order": 10,
+			"vehicle_type": "motorcycle",
+			"europ_assistance": {
+				"active": true
+			},
+			"insia": {
+				"active": true
+			}
+		},
 		{
 			"id": "64d49df345b4901ee45ecddc",
 			"name": "XF125GY-2B",
-			"order": 10,
+			"order": 20,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -65899,7 +66002,7 @@
 {
 	"name": "PLA",
 	"logo": "pla.png",
-	"order": 3130,
+	"order": 3140,
 	"models": [
 		{
 			"id": "6235396b45b4902b9f8e2286",
@@ -65954,7 +66057,7 @@
 {
 	"name": "PLYMOUTH",
 	"logo": "plymouth.png",
-	"order": 3140,
+	"order": 3150,
 	"models": [
 		{
 			"id": "5d85542c45b4903cbc377d3d",
@@ -66009,7 +66112,7 @@
 {
 	"name": "POBěDA",
 	"logo": "pobeda.png",
-	"order": 3150,
+	"order": 3160,
 	"models": [
 		{
 			"id": "5d85542d45b4903cbc377f0e",
@@ -66040,7 +66143,7 @@
 {
 	"name": "POLARIS",
 	"logo": "polaris.png",
-	"order": 3160,
+	"order": 3170,
 	"models": [
 		{
 			"id": "5d85542d45b4903cbc377f50",
@@ -66071,7 +66174,7 @@
 {
 	"name": "POLESTAR",
 	"logo": "polestar.png",
-	"order": 3170,
+	"order": 3180,
 	"models": [
 		{
 			"id": "6235396b45b4902b9f8e22ca",
@@ -66114,7 +66217,7 @@
 {
 	"name": "POLSKI FIAT",
 	"logo": "polski-fiat.png",
-	"order": 3180,
+	"order": 3190,
 	"models": [
 		{
 			"id": "5d85542d45b4903cbc377fcd",
@@ -66169,7 +66272,7 @@
 {
 	"name": "PONTIAC",
 	"logo": "pontiac.png",
-	"order": 3190,
+	"order": 3200,
 	"models": [
 		{
 			"id": "5d85542c45b4903cbc377ce3",
@@ -66368,7 +66471,7 @@
 {
 	"name": "POSSL",
 	"logo": "possl.png",
-	"order": 3200,
+	"order": 3210,
 	"models": [
 		{
 			"id": "5ac6a9b845b490359bb12892",
@@ -66387,7 +66490,7 @@
 {
 	"name": "PRAGA",
 	"logo": "praga.png",
-	"order": 3210,
+	"order": 3220,
 	"models": [
 		{
 			"id": "5d85542c45b4903cbc377bf1",
@@ -66538,7 +66641,7 @@
 {
 	"name": "PROTON",
 	"logo": "proton.png",
-	"order": 3220,
+	"order": 3230,
 	"models": [
 		{
 			"id": "5ac6a9bd45b490359bb12c30",
@@ -66677,7 +66780,7 @@
 {
 	"name": "PÖSSL",
 	"logo": "possl.png",
-	"order": 3230,
+	"order": 3240,
 	"models": [
 		{
 			"id": "6235396b45b4902b9f8e21f3",
@@ -66732,7 +66835,7 @@
 {
 	"name": "QINGQI",
 	"logo": "qingqi.png",
-	"order": 3240,
+	"order": 3250,
 	"models": [
 		{
 			"id": "6447df8b424d3f337674bf47",
@@ -66787,7 +66890,7 @@
 {
 	"name": "QJMOTOR",
 	"logo": "qj-motor.png",
-	"order": 3250,
+	"order": 3260,
 	"models": [
 		{
 			"id": "65d5cb7245b4904ba3fbd123",
@@ -66806,7 +66909,7 @@
 {
 	"name": "QUADRO",
 	"logo": "quadro.png",
-	"order": 3260,
+	"order": 3270,
 	"models": [
 		{
 			"id": "60c3cebf45b490293d477ba3",
@@ -66825,7 +66928,7 @@
 {
 	"name": "RACCEWAY",
 	"logo": "racceway.png",
-	"order": 3270,
+	"order": 3280,
 	"models": [
 		{
 			"id": "62a86845424d3f6268d75eaf",
@@ -66880,7 +66983,7 @@
 {
 	"name": "RADICAL",
 	"logo": "radical.png",
-	"order": 3280,
+	"order": 3290,
 	"models": [
 		{
 			"id": "5d85542d45b4903cbc377f48",
@@ -66911,7 +67014,7 @@
 {
 	"name": "RAF",
 	"logo": "raf.png",
-	"order": 3290,
+	"order": 3300,
 	"models": [
 		{
 			"id": "5d85542d45b4903cbc377f10",
@@ -66942,7 +67045,7 @@
 {
 	"name": "RAG",
 	"logo": "rag.png",
-	"order": 3300,
+	"order": 3310,
 	"models": [
 		{
 			"id": "5d85542d45b4903cbc377eb9",
@@ -66973,7 +67076,7 @@
 {
 	"name": "RAM",
 	"logo": "ram.png",
-	"order": 3310,
+	"order": 3320,
 	"models": [
 		{
 			"id": "6235396b45b4902b9f8e22a6",
@@ -67040,7 +67143,7 @@
 {
 	"name": "RANGE ROVER",
 	"logo": "range-rover.png",
-	"order": 3320,
+	"order": 3330,
 	"models": [
 		{
 			"id": "5ac6a9bd45b490359bb12c32",
@@ -67071,7 +67174,7 @@
 {
 	"name": "RAPIDO",
 	"logo": "rapido.png",
-	"order": 3330,
+	"order": 3340,
 	"models": [
 		{
 			"id": "6235396b45b4902b9f8e2160",
@@ -67138,7 +67241,7 @@
 {
 	"name": "REFORM",
 	"logo": "reform.png",
-	"order": 3340,
+	"order": 3350,
 	"models": [
 		{
 			"id": "5d85542d45b4903cbc377f56",
@@ -67169,7 +67272,7 @@
 {
 	"name": "RHON",
 	"logo": "rhon.png",
-	"order": 3350,
+	"order": 3360,
 	"models": [
 		{
 			"id": "60c3cebf45b490293d477ba2",
@@ -67188,7 +67291,7 @@
 {
 	"name": "RIEJU",
 	"logo": "rieju.png",
-	"order": 3360,
+	"order": 3370,
 	"models": [
 		{
 			"id": "660bb02f45b4904897d7ef3b",
@@ -67231,7 +67334,7 @@
 {
 	"name": "RIMOR",
 	"logo": "rimor.png",
-	"order": 3370,
+	"order": 3380,
 	"models": [
 		{
 			"id": "6235396b45b4902b9f8e21a5",
@@ -67322,7 +67425,7 @@
 {
 	"name": "RINEN",
 	"logo": "rinen.png",
-	"order": 3380,
+	"order": 3390,
 	"models": [
 		{
 			"id": "6235396b45b4902b9f8e21e9",
@@ -67365,7 +67468,7 @@
 {
 	"name": "RIYA",
 	"logo": "riya.png",
-	"order": 3390,
+	"order": 3400,
 	"models": [
 		{
 			"id": "64881b6c424d3f766b83b8a1",
@@ -67396,7 +67499,7 @@
 {
 	"name": "ROAD CAR",
 	"logo": "road-car.png",
-	"order": 3400,
+	"order": 3410,
 	"models": [
 		{
 			"id": "6235396b45b4902b9f8e2212",
@@ -67427,7 +67530,7 @@
 {
 	"name": "ROBETA",
 	"logo": "robeta.png",
-	"order": 3410,
+	"order": 3420,
 	"models": [
 		{
 			"id": "5ec4811f45b4901c66cad5fd",
@@ -67446,7 +67549,7 @@
 {
 	"name": "ROLLER TEAM",
 	"logo": "roller-team.png",
-	"order": 3420,
+	"order": 3430,
 	"models": [
 		{
 			"id": "6235396b45b4902b9f8e2147",
@@ -67525,7 +67628,7 @@
 {
 	"name": "ROLLS-ROYCE",
 	"logo": "rolls-royce.png",
-	"order": 3430,
+	"order": 3440,
 	"models": [
 		{
 			"id": "6235396b45b4902b9f8e2238",
@@ -67688,7 +67791,7 @@
 {
 	"name": "ROSS",
 	"logo": "ross.png",
-	"order": 3440,
+	"order": 3450,
 	"models": [
 		{
 			"id": "5d85542d45b4903cbc377eb4",
@@ -67767,7 +67870,7 @@
 {
 	"name": "ROTTNE",
 	"logo": "rottne.png",
-	"order": 3450,
+	"order": 3460,
 	"models": [
 		{
 			"id": "5d85542d45b4903cbc377edd",
@@ -67798,7 +67901,7 @@
 {
 	"name": "ROVER",
 	"logo": "rover.png",
-	"order": 3460,
+	"order": 3470,
 	"models": [
 		{
 			"id": "5ac6a9bd45b490359bb12c48",
@@ -68009,7 +68112,7 @@
 {
 	"name": "ROYAL ENFIELD",
 	"logo": "royal-enfield.png",
-	"order": 3470,
+	"order": 3480,
 	"models": [
 		{
 			"id": "60c3cebf45b490293d477b5e",
@@ -68098,7 +68201,7 @@
 {
 	"name": "SAAB",
 	"logo": "saab.png",
-	"order": 3480,
+	"order": 3490,
 	"models": [
 		{
 			"id": "602ecf0045b4902e6f727421",
@@ -68393,7 +68496,7 @@
 {
 	"name": "SAM",
 	"logo": "sam.png",
-	"order": 3490,
+	"order": 3500,
 	"models": [
 		{
 			"id": "5d85542d45b4903cbc377e0b",
@@ -68424,7 +68527,7 @@
 {
 	"name": "SANTANA",
 	"logo": "santana.png",
-	"order": 3500,
+	"order": 3510,
 	"models": [
 		{
 			"id": "5ac6a9b845b490359bb128dd",
@@ -68527,7 +68630,7 @@
 {
 	"name": "SAP",
 	"logo": "sap.png",
-	"order": 3510,
+	"order": 3520,
 	"models": [
 		{
 			"id": "5d85542d45b4903cbc377f85",
@@ -68558,7 +68661,7 @@
 {
 	"name": "SATURN",
 	"logo": "saturn.png",
-	"order": 3520,
+	"order": 3530,
 	"models": [
 		{
 			"id": "5d85542d45b4903cbc377dba",
@@ -68637,7 +68740,7 @@
 {
 	"name": "SCAM",
 	"logo": "scam.png",
-	"order": 3530,
+	"order": 3540,
 	"models": [
 		{
 			"id": "5ac6a9b845b490359bb128e3",
@@ -68680,7 +68783,7 @@
 {
 	"name": "SCANIA",
 	"logo": "scania.png",
-	"order": 3540,
+	"order": 3550,
 	"models": [
 		{
 			"id": "5d85542d45b4903cbc377ee1",
@@ -69227,7 +69330,7 @@
 {
 	"name": "SEA",
 	"logo": "sea.png",
-	"order": 3550,
+	"order": 3560,
 	"models": [
 		{
 			"id": "5ac6a9b845b490359bb128e4",
@@ -69246,7 +69349,7 @@
 {
 	"name": "SHANSU",
 	"logo": "shansu.png",
-	"order": 3560,
+	"order": 3570,
 	"models": [
 		{
 			"id": "660eaea645b4905a18d60abb",
@@ -69265,7 +69368,7 @@
 {
 	"name": "SHENKE",
 	"logo": "shenke.png",
-	"order": 3570,
+	"order": 3580,
 	"models": [
 		{
 			"id": "64c39ce445b490388536742e",
@@ -69284,7 +69387,7 @@
 {
 	"name": "SHERCO",
 	"logo": "sherco.png",
-	"order": 3580,
+	"order": 3590,
 	"models": [
 		{
 			"id": "62f9e148424d3f0853697a95",
@@ -69303,7 +69406,7 @@
 {
 	"name": "SHINERAY",
 	"logo": "shineray.png",
-	"order": 3590,
+	"order": 3600,
 	"models": [
 		{
 			"id": "660fe301424d3f1ae89b6e16",
@@ -69322,7 +69425,7 @@
 {
 	"name": "SHUANGHUAN",
 	"logo": "shuanghuan.png",
-	"order": 3600,
+	"order": 3610,
 	"models": [
 		{
 			"id": "5ac6a9b845b490359bb128fa",
@@ -69341,7 +69444,7 @@
 {
 	"name": "SIAMOTO",
 	"logo": "siamoto.png",
-	"order": 3610,
+	"order": 3620,
 	"models": [
 		{
 			"id": "60c3cebf45b490293d477b65",
@@ -69372,7 +69475,7 @@
 {
 	"name": "SIMCA",
 	"logo": "simca.png",
-	"order": 3620,
+	"order": 3630,
 	"models": [
 		{
 			"id": "66012c5845b490067bd7ef2c",
@@ -69391,7 +69494,7 @@
 {
 	"name": "SIMSON",
 	"logo": "simson.png",
-	"order": 3630,
+	"order": 3640,
 	"models": [
 		{
 			"id": "6304d85345b4903d0ec513cf",
@@ -69446,7 +69549,7 @@
 {
 	"name": "SINGER",
 	"logo": "singer.png",
-	"order": 3640,
+	"order": 3650,
 	"models": [
 		{
 			"id": "5d85542d45b4903cbc377f79",
@@ -69477,7 +69580,7 @@
 {
 	"name": "SKIPI",
 	"logo": "skipi.png",
-	"order": 3650,
+	"order": 3660,
 	"models": [
 		{
 			"id": "5d85542c45b4903cbc377d42",
@@ -69508,7 +69611,7 @@
 {
 	"name": "SKYTEAM",
 	"logo": "skyteam.png",
-	"order": 3660,
+	"order": 3670,
 	"models": [
 		{
 			"id": "641062c045b4907fc2ca1bdb",
@@ -69527,7 +69630,7 @@
 {
 	"name": "SMIT",
 	"logo": "smit.png",
-	"order": 3670,
+	"order": 3680,
 	"models": [
 		{
 			"id": "5d85542d45b4903cbc377f74",
@@ -69558,7 +69661,7 @@
 {
 	"name": "SOLARIS",
 	"logo": "solaris.png",
-	"order": 3680,
+	"order": 3690,
 	"models": [
 		{
 			"id": "5d85542c45b4903cbc377c00",
@@ -69625,7 +69728,7 @@
 {
 	"name": "SONIK",
 	"logo": "sonik.png",
-	"order": 3690,
+	"order": 3700,
 	"models": [
 		{
 			"id": "64994c9445b4903db00667e0",
@@ -69644,7 +69747,7 @@
 {
 	"name": "SOR",
 	"logo": "sor.png",
-	"order": 3700,
+	"order": 3710,
 	"models": [
 		{
 			"id": "5d85542d45b4903cbc377f6b",
@@ -69687,7 +69790,7 @@
 {
 	"name": "SPYKER",
 	"logo": "spyker.png",
-	"order": 3710,
+	"order": 3720,
 	"models": [
 		{
 			"id": "5ac6a9bd45b490359bb12c7d",
@@ -69730,7 +69833,7 @@
 {
 	"name": "STADION",
 	"logo": "stadion.png",
-	"order": 3720,
+	"order": 3730,
 	"models": [
 		{
 			"id": "5d85542d45b4903cbc377f24",
@@ -69773,7 +69876,7 @@
 {
 	"name": "STELLA",
 	"logo": "stella.png",
-	"order": 3730,
+	"order": 3740,
 	"models": [
 		{
 			"id": "62e39ab6424d3f3206949632",
@@ -69792,7 +69895,7 @@
 {
 	"name": "STEYR",
 	"logo": "steyr.png",
-	"order": 3740,
+	"order": 3750,
 	"models": [
 		{
 			"id": "6235396b45b4902b9f8e2275",
@@ -69859,7 +69962,7 @@
 {
 	"name": "STREETSCOOTER",
 	"logo": "streetscooter.png",
-	"order": 3750,
+	"order": 3760,
 	"models": [
 		{
 			"id": "5d85542d45b4903cbc377f46",
@@ -69890,7 +69993,7 @@
 {
 	"name": "SUN LIVING",
 	"logo": "sun-living.png",
-	"order": 3760,
+	"order": 3770,
 	"models": [
 		{
 			"id": "6235396b45b4902b9f8e2136",
@@ -69969,7 +70072,7 @@
 {
 	"name": "SUNLIGHT",
 	"logo": "sunlight.png",
-	"order": 3770,
+	"order": 3780,
 	"models": [
 		{
 			"id": "6235396b45b4902b9f8e2293",
@@ -70024,7 +70127,7 @@
 {
 	"name": "SUR-RON",
 	"logo": "sur-ron.png",
-	"order": 3780,
+	"order": 3790,
 	"models": [
 		{
 			"id": "6286391445b49025dd0fc348",
@@ -70043,7 +70146,7 @@
 {
 	"name": "SWM",
 	"logo": "swm.png",
-	"order": 3790,
+	"order": 3800,
 	"models": [
 		{
 			"id": "6235396b45b4902b9f8e2295",
@@ -70074,7 +70177,7 @@
 {
 	"name": "SYM",
 	"logo": "sym.png",
-	"order": 3800,
+	"order": 3810,
 	"models": [
 		{
 			"id": "648abcc245b4900e7d2847a2",
@@ -70165,7 +70268,7 @@
 {
 	"name": "TAOTAO",
 	"logo": "taotao.png",
-	"order": 3810,
+	"order": 3820,
 	"models": [
 		{
 			"id": "65f1a667424d3f34ceaa9b1a",
@@ -70184,7 +70287,7 @@
 {
 	"name": "TARO",
 	"logo": "taro.png",
-	"order": 3820,
+	"order": 3830,
 	"models": [
 		{
 			"id": "62fb9f3d424d3f7f32066b70",
@@ -70203,7 +70306,7 @@
 {
 	"name": "TATA",
 	"logo": "tata.png",
-	"order": 3830,
+	"order": 3840,
 	"models": [
 		{
 			"id": "5d85542c45b4903cbc377c57",
@@ -70270,7 +70373,7 @@
 {
 	"name": "TATRA",
 	"logo": "tatra.png",
-	"order": 3840,
+	"order": 3850,
 	"models": [
 		{
 			"id": "64be750e45b4907360f9ee06",
@@ -70457,7 +70560,7 @@
 {
 	"name": "TATRA BETA",
 	"logo": "tatra-beta.png",
-	"order": 3850,
+	"order": 3860,
 	"models": [
 		{
 			"id": "5ac6a9b845b490359bb12955",
@@ -70488,7 +70591,7 @@
 {
 	"name": "TAURIS",
 	"logo": "tauris.png",
-	"order": 3860,
+	"order": 3870,
 	"models": [
 		{
 			"id": "60c3cec145b490293d477cc5",
@@ -70591,7 +70694,7 @@
 {
 	"name": "TAVRIA",
 	"logo": "tavria.png",
-	"order": 3870,
+	"order": 3880,
 	"models": [
 		{
 			"id": "5ac6a9b845b490359bb12957",
@@ -70610,7 +70713,7 @@
 {
 	"name": "TAZ",
 	"logo": "taz.png",
-	"order": 3880,
+	"order": 3890,
 	"models": [
 		{
 			"id": "5d85542d45b4903cbc377fe7",
@@ -70701,7 +70804,7 @@
 {
 	"name": "TEDOM",
 	"logo": "tedom.png",
-	"order": 3890,
+	"order": 3900,
 	"models": [
 		{
 			"id": "5d85542d45b4903cbc377de4",
@@ -70756,7 +70859,7 @@
 {
 	"name": "TEMSA",
 	"logo": "temsa.png",
-	"order": 3900,
+	"order": 3910,
 	"models": [
 		{
 			"id": "5d85542c45b4903cbc377ccf",
@@ -70835,7 +70938,7 @@
 {
 	"name": "TERRIER",
 	"logo": "terrier.png",
-	"order": 3910,
+	"order": 3920,
 	"models": [
 		{
 			"id": "5ac6a9b945b490359bb1295c",
@@ -70854,7 +70957,7 @@
 {
 	"name": "TGB",
 	"logo": "tgb.png",
-	"order": 3920,
+	"order": 3930,
 	"models": [
 		{
 			"id": "663c86cf45b490187ea56b51",
@@ -70897,7 +71000,7 @@
 {
 	"name": "THUNDERBOLD",
 	"logo": "thunderbold.png",
-	"order": 3930,
+	"order": 3940,
 	"models": [
 		{
 			"id": "5d85542d45b4903cbc377f1d",
@@ -70940,7 +71043,7 @@
 {
 	"name": "TIANYING",
 	"logo": "tianying.png",
-	"order": 3940,
+	"order": 3950,
 	"models": [
 		{
 			"id": "62b1b489424d3f3e69d75e7c",
@@ -70959,7 +71062,7 @@
 {
 	"name": "TITAN",
 	"logo": "titan.png",
-	"order": 3950,
+	"order": 3960,
 	"models": [
 		{
 			"id": "6368e3b7424d3f5fb824a67f",
@@ -70978,7 +71081,7 @@
 {
 	"name": "TMEC",
 	"logo": "tmec.png",
-	"order": 3960,
+	"order": 3970,
 	"models": [
 		{
 			"id": "639c4134424d3f25244d6c9e",
@@ -71009,7 +71112,7 @@
 {
 	"name": "TPC",
 	"logo": "tpc.png",
-	"order": 3970,
+	"order": 3980,
 	"models": [
 		{
 			"id": "6235396b45b4902b9f8e2272",
@@ -71064,7 +71167,7 @@
 {
 	"name": "TRABANT",
 	"logo": "trabant.png",
-	"order": 3980,
+	"order": 3990,
 	"models": [
 		{
 			"id": "6538eafd45b4901774252c1c",
@@ -71107,7 +71210,7 @@
 {
 	"name": "TRIGANO",
 	"logo": "trigano.png",
-	"order": 3990,
+	"order": 4000,
 	"models": [
 		{
 			"id": "5d85542d45b4903cbc377e15",
@@ -71258,7 +71361,7 @@
 {
 	"name": "TRIUMPH",
 	"logo": "triumph.png",
-	"order": 4000,
+	"order": 4010,
 	"models": [
 		{
 			"id": "60c3cec045b490293d477c66",
@@ -71733,7 +71836,7 @@
 {
 	"name": "TVR",
 	"logo": "tvr.png",
-	"order": 4010,
+	"order": 4020,
 	"models": [
 		{
 			"id": "6235396b45b4902b9f8e228a",
@@ -71776,7 +71879,7 @@
 {
 	"name": "UAZ",
 	"logo": "uaz.png",
-	"order": 4020,
+	"order": 4030,
 	"models": [
 		{
 			"id": "62d80a5245b4904196d871b3",
@@ -72081,9 +72184,28 @@
 	]
 },
 {
+	"name": "UM",
+	"logo": "um.png",
+	"order": 4040,
+	"models": [
+		{
+			"id": "66559b0245b4904365e57865",
+			"name": " XTREET 125 RS",
+			"order": 10,
+			"vehicle_type": "motorcycle",
+			"europ_assistance": {
+				"active": true
+			},
+			"insia": {
+				"active": true
+			}
+		}
+	]
+},
+{
 	"name": "URAL",
 	"logo": "ural.png",
-	"order": 4030,
+	"order": 4050,
 	"models": [
 		{
 			"id": "64802861424d3f6534daa606",
@@ -72114,7 +72236,7 @@
 {
 	"name": "VANTOURER",
 	"logo": "vantourer.png",
-	"order": 4040,
+	"order": 4060,
 	"models": [
 		{
 			"id": "6235396b45b4902b9f8e22cd",
@@ -72145,7 +72267,7 @@
 {
 	"name": "VAZ",
 	"logo": "vaz.png",
-	"order": 4050,
+	"order": 4070,
 	"models": [
 		{
 			"id": "5d85542d45b4903cbc377f3a",
@@ -72272,7 +72394,7 @@
 {
 	"name": "VDL",
 	"logo": "vdl.png",
-	"order": 4060,
+	"order": 4080,
 	"models": [
 		{
 			"id": "5d85542d45b4903cbc377eb0",
@@ -72303,7 +72425,7 @@
 {
 	"name": "VDO MOTO",
 	"logo": "vdo-moto.png",
-	"order": 4070,
+	"order": 4090,
 	"models": [
 		{
 			"id": "5d85542c45b4903cbc377d40",
@@ -72334,7 +72456,7 @@
 {
 	"name": "VESPA",
 	"logo": "vespa.png",
-	"order": 4080,
+	"order": 4100,
 	"models": [
 		{
 			"id": "625ec45d424d3f589f4d3dcf",
@@ -72389,7 +72511,7 @@
 {
 	"name": "VICON",
 	"logo": "vicon.png",
-	"order": 4090,
+	"order": 4110,
 	"models": [
 		{
 			"id": "5d85542d45b4903cbc377f82",
@@ -72420,7 +72542,7 @@
 {
 	"name": "VICTORY",
 	"logo": "victory.png",
-	"order": 4100,
+	"order": 4120,
 	"models": [
 		{
 			"id": "60c3cebf45b490293d477b67",
@@ -72571,7 +72693,7 @@
 {
 	"name": "VOGE",
 	"logo": "voge.png",
-	"order": 4110,
+	"order": 4130,
 	"models": [
 		{
 			"id": "660bae96424d3f5bb2f3aebf",
@@ -72614,7 +72736,7 @@
 {
 	"name": "VOLGA",
 	"logo": "volga.png",
-	"order": 4120,
+	"order": 4140,
 	"models": [
 		{
 			"id": "5ac6a9bd45b490359bb12cab",
@@ -72645,7 +72767,7 @@
 {
 	"name": "VOLHA",
 	"logo": "volha.png",
-	"order": 4130,
+	"order": 4150,
 	"models": [
 		{
 			"id": "5d85542d45b4903cbc377eb2",
@@ -72676,7 +72798,7 @@
 {
 	"name": "VW-KUTSENITS",
 	"logo": "vw-kutsenits.png",
-	"order": 4140,
+	"order": 4160,
 	"models": [
 		{
 			"id": "5ac6a9b945b490359bb129ec",
@@ -72695,7 +72817,7 @@
 {
 	"name": "WALTER",
 	"logo": "walter.png",
-	"order": 4150,
+	"order": 4170,
 	"models": [
 		{
 			"id": "5d85542c45b4903cbc377d1d",
@@ -72738,7 +72860,7 @@
 {
 	"name": "WANDERER",
 	"logo": "wanderer.png",
-	"order": 4160,
+	"order": 4180,
 	"models": [
 		{
 			"id": "5d85542d45b4903cbc377f35",
@@ -72793,7 +72915,7 @@
 {
 	"name": "WANGYE",
 	"logo": "wangye.png",
-	"order": 4170,
+	"order": 4190,
 	"models": [
 		{
 			"id": "63690989424d3f7dad24a67a",
@@ -72836,7 +72958,7 @@
 {
 	"name": "WARTBURG",
 	"logo": "wartburg.png",
-	"order": 4180,
+	"order": 4200,
 	"models": [
 		{
 			"id": "62c29949424d3f4e50bd1fb0",
@@ -72879,7 +73001,7 @@
 {
 	"name": "WEINSBERG",
 	"logo": "weinsberg.png",
-	"order": 4190,
+	"order": 4210,
 	"models": [
 		{
 			"id": "6235396b45b4902b9f8e2216",
@@ -72982,7 +73104,7 @@
 {
 	"name": "WELGER",
 	"logo": "welger.png",
-	"order": 4200,
+	"order": 4220,
 	"models": [
 		{
 			"id": "5d85542d45b4903cbc377f4d",
@@ -73013,7 +73135,7 @@
 {
 	"name": "WESTFALIA",
 	"logo": "westfalia.png",
-	"order": 4210,
+	"order": 4230,
 	"models": [
 		{
 			"id": "6235396b45b4902b9f8e2148",
@@ -73056,7 +73178,7 @@
 {
 	"name": "WIESMANN",
 	"logo": "wiesmann.png",
-	"order": 4220,
+	"order": 4240,
 	"models": [
 		{
 			"id": "5ac6a9be45b490359bb12cd2",
@@ -73099,7 +73221,7 @@
 {
 	"name": "WONJAN",
 	"logo": "wonjan.png",
-	"order": 4230,
+	"order": 4250,
 	"models": [
 		{
 			"id": "661d247745b49078f442a617",
@@ -73118,7 +73240,7 @@
 {
 	"name": "XGO",
 	"logo": "xgo.png",
-	"order": 4240,
+	"order": 4260,
 	"models": [
 		{
 			"id": "6235396b45b4902b9f8e214d",
@@ -73173,7 +73295,7 @@
 {
 	"name": "YAMAHA",
 	"logo": "yamaha.png",
-	"order": 4250,
+	"order": 4270,
 	"models": [
 		{
 			"id": "62a9e57245b49009c0a2504e",
@@ -73224,9 +73346,21 @@
 			}
 		},
 		{
+			"id": "6655b294424d3f492a8dc39d",
+			"name": "CZD 300",
+			"order": 50,
+			"vehicle_type": "motorcycle",
+			"europ_assistance": {
+				"active": true
+			},
+			"insia": {
+				"active": true
+			}
+		},
+		{
 			"id": "6595068a424d3f7876b5c811",
 			"name": "DT 125 R",
-			"order": 50,
+			"order": 60,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -73238,7 +73372,7 @@
 		{
 			"id": "627cc795424d3f1dfc6254ef",
 			"name": "FJ1200",
-			"order": 60,
+			"order": 70,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -73250,7 +73384,7 @@
 		{
 			"id": "626b8e6045b4901f9cf1036c",
 			"name": "FJR 1300",
-			"order": 70,
+			"order": 80,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -73262,7 +73396,7 @@
 		{
 			"id": "60c3cec045b490293d477c49",
 			"name": "FJR 1300 A",
-			"order": 80,
+			"order": 90,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -73274,7 +73408,7 @@
 		{
 			"id": "60c3cec045b490293d477c4e",
 			"name": "FJR 1300 AE",
-			"order": 90,
+			"order": 100,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -73286,7 +73420,7 @@
 		{
 			"id": "60c3cec045b490293d477c4f",
 			"name": "FJR 1300 AS",
-			"order": 100,
+			"order": 110,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -73298,7 +73432,7 @@
 		{
 			"id": "62b085bb424d3f4464d75eae",
 			"name": "FS 80",
-			"order": 110,
+			"order": 120,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -73310,7 +73444,7 @@
 		{
 			"id": "60c3cec045b490293d477c3f",
 			"name": "FZ 750",
-			"order": 120,
+			"order": 130,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -73322,7 +73456,7 @@
 		{
 			"id": "651d049445b4903f5d034f71",
 			"name": "FZ1 FAZER",
-			"order": 130,
+			"order": 140,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -73334,7 +73468,7 @@
 		{
 			"id": "6298705045b490482d8558fc",
 			"name": "FZ1-N",
-			"order": 140,
+			"order": 150,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -73346,7 +73480,7 @@
 		{
 			"id": "623cae2745b49037192aa1b1",
 			"name": "FZ6",
-			"order": 150,
+			"order": 160,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -73358,7 +73492,7 @@
 		{
 			"id": "62a6dce445b4906b0da2503d",
 			"name": "FZ8",
-			"order": 160,
+			"order": 170,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -73370,7 +73504,7 @@
 		{
 			"id": "62c67c55424d3f7aee88c734",
 			"name": "FZR 1000",
-			"order": 170,
+			"order": 180,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -73382,7 +73516,7 @@
 		{
 			"id": "6245747645b490303c2e971c",
 			"name": "FZS 1000",
-			"order": 180,
+			"order": 190,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -73394,7 +73528,7 @@
 		{
 			"id": "624c159e45b490511ac19854",
 			"name": "FZS 600",
-			"order": 190,
+			"order": 200,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -73406,7 +73540,7 @@
 		{
 			"id": "60c3cec045b490293d477c32",
 			"name": "GIGGLE",
-			"order": 200,
+			"order": 210,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -73418,7 +73552,7 @@
 		{
 			"id": "63fdfbde45b49052a072b6bc",
 			"name": "GPD 125-A (N-MAX)",
-			"order": 210,
+			"order": 220,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -73430,7 +73564,7 @@
 		{
 			"id": "63f375fa424d3f0386742fe7",
 			"name": "GTS1000",
-			"order": 220,
+			"order": 230,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -73442,7 +73576,7 @@
 		{
 			"id": "63bd3d1b45b4901a23afdf58",
 			"name": "JOG RR",
-			"order": 230,
+			"order": 240,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -73454,7 +73588,7 @@
 		{
 			"id": "641c0611424d3f29e03ec25d",
 			"name": "MT 320",
-			"order": 240,
+			"order": 250,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -73466,7 +73600,7 @@
 		{
 			"id": "60c3cec045b490293d477c35",
 			"name": "MT-01",
-			"order": 250,
+			"order": 260,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -73478,7 +73612,7 @@
 		{
 			"id": "60c3cec045b490293d477c38",
 			"name": "MT-03",
-			"order": 260,
+			"order": 270,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -73490,7 +73624,7 @@
 		{
 			"id": "60c3cec045b490293d477c3a",
 			"name": "MT-07",
-			"order": 270,
+			"order": 280,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -73502,7 +73636,7 @@
 		{
 			"id": "60c3cec045b490293d477c2d",
 			"name": "MT-07 MOTO CAGE",
-			"order": 280,
+			"order": 290,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -73514,7 +73648,7 @@
 		{
 			"id": "60c3cec045b490293d477c39",
 			"name": "MT-09",
-			"order": 290,
+			"order": 300,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -73526,7 +73660,7 @@
 		{
 			"id": "60c3cec045b490293d477c2f",
 			"name": "MT-10",
-			"order": 300,
+			"order": 310,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -73538,7 +73672,7 @@
 		{
 			"id": "60c3cec045b490293d477c26",
 			"name": "MT-125",
-			"order": 310,
+			"order": 320,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -73550,7 +73684,19 @@
 		{
 			"id": "6630c12a45b4904e9fffe01c",
 			"name": "MTT 890",
-			"order": 320,
+			"order": 330,
+			"vehicle_type": "motorcycle",
+			"europ_assistance": {
+				"active": true
+			},
+			"insia": {
+				"active": true
+			}
+		},
+		{
+			"id": "66597295424d3f5c0fa0b6ad",
+			"name": "MTT690-A",
+			"order": 340,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -73562,7 +73708,7 @@
 		{
 			"id": "642c23e445b4900aca38a7b0",
 			"name": "NEOS",
-			"order": 330,
+			"order": 350,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -73574,7 +73720,7 @@
 		{
 			"id": "60c3cec045b490293d477c4c",
 			"name": "NIKEN",
-			"order": 340,
+			"order": 360,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -73586,7 +73732,7 @@
 		{
 			"id": "64be538845b4902b57f9ee05",
 			"name": "NMAX 125",
-			"order": 350,
+			"order": 370,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -73598,7 +73744,7 @@
 		{
 			"id": "66012864424d3f3a29f3aecb",
 			"name": "R 3",
-			"order": 360,
+			"order": 380,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -73610,7 +73756,7 @@
 		{
 			"id": "6644717445b4905ab5ad29b4",
 			"name": "R 7",
-			"order": 370,
+			"order": 390,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -73622,7 +73768,7 @@
 		{
 			"id": "63fc807745b490122c72b6b3",
 			"name": "RD 350",
-			"order": 380,
+			"order": 400,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -73634,7 +73780,7 @@
 		{
 			"id": "60c3cec045b490293d477c50",
 			"name": "SCR 950",
-			"order": 390,
+			"order": 410,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -73646,7 +73792,7 @@
 		{
 			"id": "60c3cec045b490293d477c42",
 			"name": "SR 125",
-			"order": 400,
+			"order": 420,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -73658,7 +73804,7 @@
 		{
 			"id": "60c3cec045b490293d477c43",
 			"name": "SR 400",
-			"order": 410,
+			"order": 430,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -73670,7 +73816,7 @@
 		{
 			"id": "628f561d424d3f04acdda36e",
 			"name": "TDM 850",
-			"order": 420,
+			"order": 440,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -73682,7 +73828,7 @@
 		{
 			"id": "628cf68845b490311aa939a6",
 			"name": "TDM 900",
-			"order": 430,
+			"order": 450,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -73694,7 +73840,7 @@
 		{
 			"id": "60c3cec045b490293d477c46",
 			"name": "TDR 125",
-			"order": 440,
+			"order": 460,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -73706,7 +73852,7 @@
 		{
 			"id": "60c3cec045b490293d477c30",
 			"name": "TRACER 700",
-			"order": 450,
+			"order": 470,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -73728,7 +73874,7 @@
 		{
 			"id": "60c3cec045b490293d477c4b",
 			"name": "TRACER 900",
-			"order": 460,
+			"order": 480,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -73750,7 +73896,7 @@
 		{
 			"id": "60c3cec045b490293d477c3b",
 			"name": "TRACER 900 GT",
-			"order": 470,
+			"order": 490,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -73762,7 +73908,7 @@
 		{
 			"id": "60c3cec045b490293d477c34",
 			"name": "TRICITY 125",
-			"order": 480,
+			"order": 500,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -73784,7 +73930,7 @@
 		{
 			"id": "60c3cec045b490293d477c29",
 			"name": "TRX 850",
-			"order": 490,
+			"order": 510,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -73796,7 +73942,7 @@
 		{
 			"id": "63be8e6e424d3f1e7e3485c8",
 			"name": "TT 350",
-			"order": 500,
+			"order": 520,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -73808,7 +73954,7 @@
 		{
 			"id": "63be6698424d3f45ca3485f1",
 			"name": "TT 600 E",
-			"order": 510,
+			"order": 530,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -73820,7 +73966,7 @@
 		{
 			"id": "629eeb6a45b4903c698558c3",
 			"name": "TT 600 R",
-			"order": 520,
+			"order": 540,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -73832,7 +73978,7 @@
 		{
 			"id": "63d25965424d3f75854c12cc",
 			"name": "TW 125",
-			"order": 530,
+			"order": 550,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -73844,7 +73990,7 @@
 		{
 			"id": "63d104e445b49079b8e2ee2d",
 			"name": "TZR 125",
-			"order": 540,
+			"order": 560,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -73856,7 +74002,7 @@
 		{
 			"id": "64be791f45b4901419f9ee00",
 			"name": "TZR 50",
-			"order": 550,
+			"order": 570,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -73868,7 +74014,7 @@
 		{
 			"id": "60c3cec045b490293d477c2b",
 			"name": "TÉNÉRÉ 700",
-			"order": 560,
+			"order": 580,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -73890,7 +74036,7 @@
 		{
 			"id": "65f2f3b0424d3f1bdfe26c32",
 			"name": "V-MAX 1200",
-			"order": 570,
+			"order": 590,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -73902,7 +74048,7 @@
 		{
 			"id": "662a112345b4907cc228f247",
 			"name": "VIRAGO",
-			"order": 580,
+			"order": 600,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -73914,7 +74060,7 @@
 		{
 			"id": "62835a7b45b49047c00fc38c",
 			"name": "VP 300 VERSITY",
-			"order": 590,
+			"order": 610,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -73926,7 +74072,7 @@
 		{
 			"id": "6422cffd424d3f19b92ede01",
 			"name": "WR 125 R",
-			"order": 600,
+			"order": 620,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -73938,7 +74084,7 @@
 		{
 			"id": "62a6e4ad45b49038a4a2508b",
 			"name": "WR 250",
-			"order": 610,
+			"order": 630,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -73950,7 +74096,7 @@
 		{
 			"id": "650afbf1424d3f0626fdb1f4",
 			"name": "WR 450 F",
-			"order": 620,
+			"order": 640,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -73962,7 +74108,7 @@
 		{
 			"id": "60c3cec045b490293d477c51",
 			"name": "X-CITY 125",
-			"order": 630,
+			"order": 650,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -73974,7 +74120,7 @@
 		{
 			"id": "60c3cec045b490293d477c41",
 			"name": "X-CITY 250",
-			"order": 640,
+			"order": 660,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -73986,7 +74132,7 @@
 		{
 			"id": "60c3cec045b490293d477c45",
 			"name": "X-MAX 125",
-			"order": 650,
+			"order": 670,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -73998,7 +74144,7 @@
 		{
 			"id": "60c3cec045b490293d477c47",
 			"name": "X-MAX 250",
-			"order": 660,
+			"order": 680,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -74010,7 +74156,7 @@
 		{
 			"id": "60c3cec045b490293d477c25",
 			"name": "X-MAX 300",
-			"order": 670,
+			"order": 690,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -74022,7 +74168,7 @@
 		{
 			"id": "60c3cec045b490293d477c44",
 			"name": "X-MAX 400",
-			"order": 680,
+			"order": 700,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -74034,7 +74180,7 @@
 		{
 			"id": "63402e2545b4902fe2445ec9",
 			"name": "XC 115S DELIGHT",
-			"order": 690,
+			"order": 710,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -74046,7 +74192,7 @@
 		{
 			"id": "64f72baf424d3f34fa3eef5b",
 			"name": "XC 125R MAJESTY S",
-			"order": 700,
+			"order": 720,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -74058,7 +74204,7 @@
 		{
 			"id": "62835aff424d3f2452625500",
 			"name": "XC 300 VERSITY",
-			"order": 710,
+			"order": 730,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -74070,7 +74216,7 @@
 		{
 			"id": "6629f0c9424d3f398c254c50",
 			"name": "XF50 GIGGLE",
-			"order": 720,
+			"order": 740,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -74082,7 +74228,7 @@
 		{
 			"id": "60c3cec045b490293d477c3c",
 			"name": "XG 250 TRICKER",
-			"order": 730,
+			"order": 750,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -74094,7 +74240,7 @@
 		{
 			"id": "6593c88145b490469179c4bc",
 			"name": "XJ 600",
-			"order": 740,
+			"order": 760,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -74106,7 +74252,7 @@
 		{
 			"id": "62b07dd145b4906f64a25046",
 			"name": "XJ 600 S DIVERSION",
-			"order": 750,
+			"order": 770,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -74118,7 +74264,7 @@
 		{
 			"id": "64f5b91845b490609d9b32b3",
 			"name": "XJ 650",
-			"order": 760,
+			"order": 780,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -74130,7 +74276,7 @@
 		{
 			"id": "63fc9980424d3f23f5c6186c",
 			"name": "XJ 750",
-			"order": 770,
+			"order": 790,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -74142,7 +74288,7 @@
 		{
 			"id": "631b114d424d3f32ea30f155",
 			"name": "XJ 900",
-			"order": 780,
+			"order": 800,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -74154,7 +74300,7 @@
 		{
 			"id": "60c3cec045b490293d477c36",
 			"name": "XJ6",
-			"order": 790,
+			"order": 810,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -74176,7 +74322,7 @@
 		{
 			"id": "62be9579424d3f46cdbd1fae",
 			"name": "XJR 1200",
-			"order": 800,
+			"order": 820,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -74188,7 +74334,7 @@
 		{
 			"id": "629ef6bf45b4907b2d8558db",
 			"name": "XJR 1300",
-			"order": 810,
+			"order": 830,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -74200,7 +74346,7 @@
 		{
 			"id": "65f2f373424d3f1bdfe26c31",
 			"name": "XL 535",
-			"order": 820,
+			"order": 840,
 			"vehicle_type": "car",
 			"europ_assistance": {
 				"active": false
@@ -74212,7 +74358,7 @@
 		{
 			"id": "6419870c424d3f351e3ec2ae",
 			"name": "XP500 T-MAX",
-			"order": 830,
+			"order": 850,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -74224,7 +74370,7 @@
 		{
 			"id": "60c3cec045b490293d477c24",
 			"name": "XQ 125 MAXSTER",
-			"order": 840,
+			"order": 860,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -74236,7 +74382,7 @@
 		{
 			"id": "60c3cec045b490293d477c48",
 			"name": "XQ 150 MAXSTER",
-			"order": 850,
+			"order": 870,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -74248,7 +74394,7 @@
 		{
 			"id": "66542d4b45b49040cef9041e",
 			"name": "XS 250",
-			"order": 860,
+			"order": 880,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -74260,7 +74406,7 @@
 		{
 			"id": "60c3cec045b490293d477c4a",
 			"name": "XSR 700",
-			"order": 870,
+			"order": 890,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -74272,7 +74418,7 @@
 		{
 			"id": "60c3cec045b490293d477c2c",
 			"name": "XSR 900",
-			"order": 880,
+			"order": 900,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -74284,7 +74430,7 @@
 		{
 			"id": "649d3441424d3f40072641d8",
 			"name": "XT 1200 Z SUPER TÉNÉRÉ",
-			"order": 890,
+			"order": 910,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -74296,7 +74442,7 @@
 		{
 			"id": "64aba27e45b4904cb4bc39ab",
 			"name": "XT 125",
-			"order": 900,
+			"order": 920,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -74308,7 +74454,7 @@
 		{
 			"id": "6400a36a45b4903c5b72b6f4",
 			"name": "XT 350",
-			"order": 910,
+			"order": 930,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -74320,7 +74466,7 @@
 		{
 			"id": "6466193a424d3f2446183e24",
 			"name": "XT 550",
-			"order": 920,
+			"order": 940,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -74332,7 +74478,7 @@
 		{
 			"id": "65649a5045b49001aa0c2e34",
 			"name": "XT 600",
-			"order": 930,
+			"order": 950,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -74344,7 +74490,7 @@
 		{
 			"id": "6491818845b490192e538944",
 			"name": "XT 600Z TENERE",
-			"order": 940,
+			"order": 960,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -74356,7 +74502,7 @@
 		{
 			"id": "637cd4fa45b490519f477349",
 			"name": "XT 660 R",
-			"order": 950,
+			"order": 970,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -74368,7 +74514,7 @@
 		{
 			"id": "625fa95e45b4905665f1036f",
 			"name": "XT 660 X",
-			"order": 960,
+			"order": 980,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -74380,7 +74526,7 @@
 		{
 			"id": "6435351445b490529b9e5281",
 			"name": "XT 660Z TENERE",
-			"order": 970,
+			"order": 990,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -74392,7 +74538,7 @@
 		{
 			"id": "6242143d424d3f6bdfbb1828",
 			"name": "XTZ",
-			"order": 980,
+			"order": 1000,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -74404,7 +74550,7 @@
 		{
 			"id": "63bd593a45b4903c0bafdf37",
 			"name": "XTZ 690",
-			"order": 990,
+			"order": 1010,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -74416,7 +74562,7 @@
 		{
 			"id": "6310c52f424d3f1eaf3112de",
 			"name": "XTZ 750",
-			"order": 1000,
+			"order": 1020,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -74428,7 +74574,7 @@
 		{
 			"id": "627dfa3d45b4905b650fc375",
 			"name": "XV 1100 VIRAGO",
-			"order": 1010,
+			"order": 1030,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -74440,7 +74586,7 @@
 		{
 			"id": "63d8f3bf424d3f329da21f50",
 			"name": "XV 125",
-			"order": 1020,
+			"order": 1040,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -74452,7 +74598,7 @@
 		{
 			"id": "62ac3d0745b49020eba2506b",
 			"name": "XV 1600 A WILD STAR",
-			"order": 1030,
+			"order": 1050,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -74464,7 +74610,7 @@
 		{
 			"id": "60c3cec045b490293d477c27",
 			"name": "XV 1700 ROAD STAR",
-			"order": 1040,
+			"order": 1060,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -74476,7 +74622,7 @@
 		{
 			"id": "62f0c17f45b4903f9624ee2c",
 			"name": "XV 1900",
-			"order": 1050,
+			"order": 1070,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -74488,7 +74634,7 @@
 		{
 			"id": "6426a1a1424d3f1f642ede38",
 			"name": "XV 500/L VIRAGO",
-			"order": 1060,
+			"order": 1080,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -74500,7 +74646,7 @@
 		{
 			"id": "6286400945b490580f0fc380",
 			"name": "XV 535 VIRAGO",
-			"order": 1070,
+			"order": 1090,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -74512,7 +74658,7 @@
 		{
 			"id": "63f4bc28424d3f2faf146097",
 			"name": "XV 700",
-			"order": 1080,
+			"order": 1100,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": false
@@ -74524,7 +74670,7 @@
 		{
 			"id": "63fc88ba424d3f6407c6185a",
 			"name": "XV 700 VIRAGO",
-			"order": 1090,
+			"order": 1110,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -74536,7 +74682,7 @@
 		{
 			"id": "624c1d1845b4901dc1c19856",
 			"name": "XV 750 VIRAGO",
-			"order": 1100,
+			"order": 1120,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -74548,7 +74694,7 @@
 		{
 			"id": "60c3cec045b490293d477c37",
 			"name": "XV 950",
-			"order": 1110,
+			"order": 1130,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -74570,7 +74716,7 @@
 		{
 			"id": "626fe96845b49039e7f10365",
 			"name": "XVS 1100 DragStar",
-			"order": 1120,
+			"order": 1140,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -74582,7 +74728,7 @@
 		{
 			"id": "642564e5424d3f42da2ede06",
 			"name": "XVS 1100A DRAGSTAR CLASSIC",
-			"order": 1130,
+			"order": 1150,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -74594,7 +74740,7 @@
 		{
 			"id": "635faf3745b4900c53349da6",
 			"name": "XVS 1300",
-			"order": 1140,
+			"order": 1160,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -74606,7 +74752,7 @@
 		{
 			"id": "62877f4145b49017f1a9398f",
 			"name": "XVS 250 DRAG STAR",
-			"order": 1150,
+			"order": 1170,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -74618,7 +74764,7 @@
 		{
 			"id": "63035dec45b4900513e10e3f",
 			"name": "XVS 650",
-			"order": 1160,
+			"order": 1180,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -74630,7 +74776,7 @@
 		{
 			"id": "658000d4424d3f12a96213e7",
 			"name": "XVS 950",
-			"order": 1170,
+			"order": 1190,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -74642,7 +74788,7 @@
 		{
 			"id": "64e70fac424d3f6e16db8a3c",
 			"name": "XVZ 1300",
-			"order": 1180,
+			"order": 1200,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -74654,7 +74800,7 @@
 		{
 			"id": "60c3cec045b490293d477c40",
 			"name": "YBR 125",
-			"order": 1190,
+			"order": 1210,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -74666,7 +74812,19 @@
 		{
 			"id": "60c3cec045b490293d477c28",
 			"name": "YBR 250",
-			"order": 1200,
+			"order": 1220,
+			"vehicle_type": "motorcycle",
+			"europ_assistance": {
+				"active": true
+			},
+			"insia": {
+				"active": true
+			}
+		},
+		{
+			"id": "66596b40424d3f18f1a0b6a1",
+			"name": "YH50 WHY",
+			"order": 1230,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -74678,7 +74836,7 @@
 		{
 			"id": "60c3cec045b490293d477c33",
 			"name": "YP 125 MAJESTY",
-			"order": 1210,
+			"order": 1240,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -74690,7 +74848,7 @@
 		{
 			"id": "60c3cec045b490293d477c2e",
 			"name": "YP 150 MAJESTY",
-			"order": 1220,
+			"order": 1250,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -74702,7 +74860,7 @@
 		{
 			"id": "63f7617045b49062084e8496",
 			"name": "YP 250",
-			"order": 1230,
+			"order": 1260,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -74714,7 +74872,7 @@
 		{
 			"id": "60c3cec045b490293d477c4d",
 			"name": "YP 250 MAJESTY",
-			"order": 1240,
+			"order": 1270,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -74726,7 +74884,7 @@
 		{
 			"id": "60c3cec045b490293d477c3d",
 			"name": "YP 400 MAJESTY",
-			"order": 1250,
+			"order": 1280,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -74738,7 +74896,7 @@
 		{
 			"id": "64243f6a45b4900fe23b00b8",
 			"name": "YP400RA",
-			"order": 1260,
+			"order": 1290,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -74750,7 +74908,7 @@
 		{
 			"id": "60c3cec045b490293d477c2a",
 			"name": "YQ 100 AEROX",
-			"order": 1270,
+			"order": 1300,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -74762,7 +74920,7 @@
 		{
 			"id": "60c3cec045b490293d477c31",
 			"name": "YQ 50 AEROX R",
-			"order": 1280,
+			"order": 1310,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -74774,7 +74932,7 @@
 		{
 			"id": "60c3cec045b490293d477c3e",
 			"name": "YS 125",
-			"order": 1290,
+			"order": 1320,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -74786,7 +74944,7 @@
 		{
 			"id": "63886ac4424d3f7884ea8df7",
 			"name": "YW 125",
-			"order": 1300,
+			"order": 1330,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -74798,7 +74956,7 @@
 		{
 			"id": "6410204045b4906a34ca1baf",
 			"name": "YZF - R1M",
-			"order": 1310,
+			"order": 1340,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -74810,7 +74968,7 @@
 		{
 			"id": "6570866c45b490069c22faef",
 			"name": "YZF 1000 R",
-			"order": 1320,
+			"order": 1350,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -74822,7 +74980,7 @@
 		{
 			"id": "6419a2aa45b49010c6f43434",
 			"name": "YZF 600 R THUNDERCAT",
-			"order": 1330,
+			"order": 1360,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -74834,7 +74992,7 @@
 		{
 			"id": "63d0d588424d3f33784c12e4",
 			"name": "YZF 750 R",
-			"order": 1340,
+			"order": 1370,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -74846,7 +75004,7 @@
 		{
 			"id": "624c14f945b490493fc19859",
 			"name": "YZF R1",
-			"order": 1350,
+			"order": 1380,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -74858,7 +75016,7 @@
 		{
 			"id": "64c25b7a45b49037e3367439",
 			"name": "YZF R125A",
-			"order": 1360,
+			"order": 1390,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -74870,7 +75028,7 @@
 		{
 			"id": "64e314cf424d3f157b1b3973",
 			"name": "YZF R3",
-			"order": 1370,
+			"order": 1400,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -74882,7 +75040,7 @@
 		{
 			"id": "626fb3b5424d3f17a8c27ece",
 			"name": "YZF R6",
-			"order": 1380,
+			"order": 1410,
 			"vehicle_type": "motorcycle",
 			"europ_assistance": {
 				"active": true
@@ -74896,7 +75054,7 @@
 {
 	"name": "YAMASAKI",
 	"logo": "yamasaki.png",
-	"order": 4260,
+	"order": 4280,
 	"models": [
 		{
 			"id": "63287d39424d3f791ea764c0",
@@ -74939,7 +75097,7 @@
 {
 	"name": "YES",
 	"logo": "yes.png",
-	"order": 4270,
+	"order": 4290,
 	"models": [
 		{
 			"id": "5ac6a9b945b490359bb129ef",
@@ -74982,7 +75140,7 @@
 {
 	"name": "YIYING",
 	"logo": "yiying.png",
-	"order": 4280,
+	"order": 4300,
 	"models": [
 		{
 			"id": "64f5bde145b49003029b326c",
@@ -75025,7 +75183,7 @@
 {
 	"name": "YUGO",
 	"logo": "yugo.png",
-	"order": 4290,
+	"order": 4310,
 	"models": [
 		{
 			"id": "5d85542d45b4903cbc377f90",
@@ -75080,7 +75238,7 @@
 {
 	"name": "YUKI",
 	"logo": "yuki.png",
-	"order": 4300,
+	"order": 4320,
 	"models": [
 		{
 			"id": "664df2d645b4902341f90414",
@@ -75231,7 +75389,7 @@
 {
 	"name": "YUTONG",
 	"logo": "yutong.png",
-	"order": 4310,
+	"order": 4330,
 	"models": [
 		{
 			"id": "5d85542d45b4903cbc377f15",
@@ -75286,7 +75444,7 @@
 {
 	"name": "ZASTAVA",
 	"logo": "zastava.png",
-	"order": 4320,
+	"order": 4340,
 	"models": [
 		{
 			"id": "5d85542d45b4903cbc377ff2",
@@ -75377,7 +75535,7 @@
 {
 	"name": "ZAZ",
 	"logo": "zaz.png",
-	"order": 4330,
+	"order": 4350,
 	"models": [
 		{
 			"id": "6235396b45b4902b9f8e22be",
@@ -75406,9 +75564,28 @@
 	]
 },
 {
+	"name": "ZEEKR",
+	"logo": "zeekr.png",
+	"order": 4360,
+	"models": [
+		{
+			"id": "6655d9af424d3f2ad08dc391",
+			"name": " 001",
+			"order": 10,
+			"vehicle_type": "car",
+			"europ_assistance": {
+				"active": false
+			},
+			"insia": {
+				"active": true
+			}
+		}
+	]
+},
+{
 	"name": "ZIL",
 	"logo": "zil.png",
-	"order": 4340,
+	"order": 4370,
 	"models": [
 		{
 			"id": "65046898424d3f758c3eef5b",
@@ -75427,7 +75604,7 @@
 {
 	"name": "ZIPP",
 	"logo": "zipp.png",
-	"order": 4350,
+	"order": 4380,
 	"models": [
 		{
 			"id": "647dba4d424d3f3d078fc19d",
@@ -75470,7 +75647,7 @@
 {
 	"name": "ZNEN",
 	"logo": "znen.png",
-	"order": 4360,
+	"order": 4390,
 	"models": [
 		{
 			"id": "64be4e4745b4901627f9edf1",
@@ -75537,7 +75714,7 @@
 {
 	"name": "ZONGSHEN",
 	"logo": "zongshen.png",
-	"order": 4370,
+	"order": 4400,
 	"models": [
 		{
 			"id": "638df4ae45b490074341a94a",
@@ -75556,7 +75733,7 @@
 {
 	"name": "ZONTES",
 	"logo": "zontes.png",
-	"order": 4380,
+	"order": 4410,
 	"models": [
 		{
 			"id": "644a6dbd45b490092a605a18",
@@ -75575,7 +75752,7 @@
 {
 	"name": "ZUNHAMMER",
 	"logo": "zunhammer.png",
-	"order": 4390,
+	"order": 4420,
 	"models": [
 		{
 			"id": "6235396b45b4902b9f8e2261",
@@ -75606,7 +75783,7 @@
 {
 	"name": "ZÜNDAPP",
 	"logo": "zundapp.png",
-	"order": 4400,
+	"order": 4430,
 	"models": [
 		{
 			"id": "629df6bb424d3f7328b11c85",
@@ -75625,7 +75802,7 @@
 {
 	"name": "ČZ",
 	"logo": "cz.png",
-	"order": 4410,
+	"order": 4440,
 	"models": [
 		{
 			"id": "64a2c565424d3f3c56087552",
