@@ -80,7 +80,8 @@
       "country_abbr": "SK",
       "order": 20,
       "coupon_url_buy": "https://eznamka.sk/selfcare/purchase",
-      "coupon_url_verification": "https://eznamka.sk/selfcare/modification/select/select-vignettes/?operation=Check"
+      "coupon_url_verification": "https://eznamka.sk/selfcare/modification/select/select-vignettes/?operation=Check",
+	  "car_url_emission_history":"https://www.seka.sk/verejnost/sluzby/overenie-emisnej-kontroly"
     },
     {
       "country_abbr": "AT",
