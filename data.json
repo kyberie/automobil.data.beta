@@ -121,7 +121,7 @@
   ],	
 "banners":[
 	{
-		"uid": "3f26c23a-885e-4a8f-a567-250608901e7f",
+		"uuid": "3f26c23a-885e-4a8f-a567-250608901e7f",
 		"title": "Nová aplikace DOMOV",
 		"message": "Vyzkoušejte ZDARMA aplikaci z dílny INSIA, která vám poskytne kompletní přehled o vašich nemovitostech a domácnostech!",
 		"icon_url": "https://beta.insia.com/contacts/568794/profile/avatar/original?1724740218",
@@ -132,7 +132,7 @@
 		"date_end": "2025-02-01"
 	},
 	{
-		"uid": "61187ddc-bbee-4126-8661-ac268c1601bb",
+		"uuid": "61187ddc-bbee-4126-8661-ac268c1601bb",
 		"title": "Nová aplikácia DOMOV",
 		"message": "Vyskúšajte ZADARMO aplikáciu z dielne INSIA, ktorá vám poskytne kompletný prehľad o vašich nehnuteľnostiach a domácnostiach!",
 		"icon_url": "https://beta.insia.com/contacts/568794/profile/avatar/original?1724740218",
@@ -143,7 +143,7 @@
 		"date_end": null
 	},
 	{
-		"uid": "afd0051e-caea-46f9-bdee-d2358763cd33",
+		"uuid": "afd0051e-caea-46f9-bdee-d2358763cd33",
 		"title": "Povodeň vs. záplava: Máte v tom jasno?",
 		"message": "Počasí si v posledních letech dělá tak trochu co chce. A tak přírodní živly patří mezi rizika, na která byste neměli zapomínat.",
 		"icon_url": "https://beta.insia.com/contacts/764742/profile/avatar/original?1682452883",
