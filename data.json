@@ -121,38 +121,114 @@
   ],	
 "banners":[
 	{
-		"uuid": "3f26c23a-885e-4a8f-a567-250608901e7f",
-		"title": "Nová aplikace DOMOV",
-		"message": "Vyzkoušejte ZDARMA aplikaci z dílny INSIA, která vám poskytne kompletní přehled o vašich nemovitostech a domácnostech!",
-		"icon_url": "https://beta.insia.com/contacts/568794/profile/avatar/original?1724740218",
-		"target_url_ios": "https://apps.apple.com/no/app/domov/id6470658442",
-		"target_url_android": "https://play.google.com/store/apps/details?id=com.insia.domov",
-		"country_abbr": "CZ",
-		"date_start": "2024-12-12",
-		"date_end": "2025-02-01"
-	},
-	{
-		"uuid": "61187ddc-bbee-4126-8661-ac268c1601bb",
-		"title": "Nová aplikácia DOMOV",
-		"message": "Vyskúšajte ZADARMO aplikáciu z dielne INSIA, ktorá vám poskytne kompletný prehľad o vašich nehnuteľnostiach a domácnostiach!",
-		"icon_url": "https://beta.insia.com/contacts/568794/profile/avatar/original?1724740218",
-		"target_url_ios": "https://apps.apple.com/no/app/domov/id6470658442",
-		"target_url_android": "https://play.google.com/store/apps/details?id=com.insia.domov",
-		"country_abbr": "SK",
-		"date_start": null,
-		"date_end": null
-	},
-	{
-		"uuid": "afd0051e-caea-46f9-bdee-d2358763cd33",
-		"title": "Povodeň vs. záplava: Máte v tom jasno?",
-		"message": "Počasí si v posledních letech dělá tak trochu co chce. A tak přírodní živly patří mezi rizika, na která byste neměli zapomínat.",
-		"icon_url": "https://beta.insia.com/contacts/764742/profile/avatar/original?1682452883",
-		"target_url_ios": "https://www.insia.cz/blog/povoden-vs-zaplava-mate-v-tom-jasno/",
-		"target_url_android": "https://www.insia.cz/blog/povoden-vs-zaplava-mate-v-tom-jasno/",
-		"country_abbr": "CZ",
-		"date_start": "2024-11-01",
-		"date_end": "2025-02-01"
-	}
+    "uuid": "3f26c23a-885e-4a8f-a567-250608901e71",
+    "title": "Nová aplikace DOMOV",
+    "message": "2024-12-09 - 2024-12-11",
+    "icon_url": "https://beta.insia.com/contacts/568794/profile/avatar/original?1724740218",
+    "target_url_ios": "https://apps.apple.com/no/app/domov/id6470658442",
+    "target_url_android": "https://play.google.com/store/apps/details?id=com.insia.domov",
+    "country_abbr": "CZ",
+    "date_start": "2024-12-09",
+    "date_end": "2024-12-11"
+},
+{
+    "uuid": "3f26c23a-885e-4a8f-a567-250608901e72",
+    "title": "Nová aplikace DOMOV",
+    "message": "2024-12-10 - 2024-12-11",
+    "icon_url": "https://beta.insia.com/contacts/568794/profile/avatar/original?1724740218",
+    "target_url_ios": "https://apps.apple.com/no/app/domov/id6470658442",
+    "target_url_android": "https://play.google.com/store/apps/details?id=com.insia.domov",
+    "country_abbr": "CZ",
+    "date_start": "2024-12-10",
+    "date_end": "2024-12-11"
+},
+{
+    "uuid": "3f26c23a-885e-4a8f-a567-250608901e73",
+    "title": "Nová aplikace DOMOV",
+    "message": "2024-12-11 - 2024-12-11",
+    "icon_url": "https://beta.insia.com/contacts/568794/profile/avatar/original?1724740218",
+    "target_url_ios": "https://apps.apple.com/no/app/domov/id6470658442",
+    "target_url_android": "https://play.google.com/store/apps/details?id=com.insia.domov",
+    "country_abbr": "CZ",
+    "date_start": "2024-12-11",
+    "date_end": "2024-12-11"
+},
+{
+    "uuid": "3f26c23a-885e-4a8f-a567-250608901e74",
+    "title": "Nová aplikace DOMOV",
+    "message": "null - 2024-12-11",
+    "icon_url": "https://beta.insia.com/contacts/568794/profile/avatar/original?1724740218",
+    "target_url_ios": "https://apps.apple.com/no/app/domov/id6470658442",
+    "target_url_android": "https://play.google.com/store/apps/details?id=com.insia.domov",
+    "country_abbr": "CZ",
+    "date_start": null,
+    "date_end": "2024-12-11"
+},
+{
+    "uuid": "3f26c23a-885e-4a8f-a567-250608901e75",
+    "title": "Nová aplikace DOMOV",
+    "message": "null - null",
+    "icon_url": "https://beta.insia.com/contacts/568794/profile/avatar/original?1724740218",
+    "target_url_ios": "https://apps.apple.com/no/app/domov/id6470658442",
+    "target_url_android": "https://play.google.com/store/apps/details?id=com.insia.domov",
+    "country_abbr": "CZ",
+    "date_start": null,
+    "date_end": null
+},
+{
+    "uuid": "3f26c23a-885e-4a8f-a567-250608901e76",
+    "title": "Nová aplikace DOMOV",
+    "message": "2024-12-01 - 2024-12-02",
+    "icon_url": "https://beta.insia.com/contacts/568794/profile/avatar/original?1724740218",
+    "target_url_ios": "https://apps.apple.com/no/app/domov/id6470658442",
+    "target_url_android": "https://play.google.com/store/apps/details?id=com.insia.domov",
+    "country_abbr": "CZ",
+    "date_start": "2024-12-01",
+    "date_end": "2024-12-02"
+},{
+    "uuid": "3f26c23a-885e-4a8f-a567-250608901e77",
+    "title": "Nová aplikace DOMOV",
+    "message": "2024-12-01 - 2024-12-10",
+    "icon_url": "https://beta.insia.com/contacts/568794/profile/avatar/original?1724740218",
+    "target_url_ios": "https://apps.apple.com/no/app/domov/id6470658442",
+    "target_url_android": "https://play.google.com/store/apps/details?id=com.insia.domov",
+    "country_abbr": "CZ",
+    "date_start": "2024-12-01",
+    "date_end": "2024-12-10"
+},
+,{
+    "uuid": "3f26c23a-885e-4a8f-a567-250608901e8f",
+    "title": "Nová aplikace DOMOV",
+    "message": "2024-12-01 - 2024-12-11",
+    "icon_url": "https://beta.insia.com/contacts/568794/profile/avatar/original?1724740218",
+    "target_url_ios": "https://apps.apple.com/no/app/domov/id6470658442",
+    "target_url_android": "https://play.google.com/store/apps/details?id=com.insia.domov",
+    "country_abbr": "CZ",
+    "date_start": "2024-12-01",
+    "date_end": "2024-12-11"
+},
+,{
+    "uuid": "3f26c23a-885e-4a8f-a567-250608901e79",
+    "title": "Nová aplikace DOMOV",
+    "message": "2024-12-01 - 2024-12-09",
+    "icon_url": "https://beta.insia.com/contacts/568794/profile/avatar/original?1724740218",
+    "target_url_ios": "https://apps.apple.com/no/app/domov/id6470658442",
+    "target_url_android": "https://play.google.com/store/apps/details?id=com.insia.domov",
+    "country_abbr": "CZ",
+    "date_start": "2024-12-01",
+    "date_end": "2024-12-09"
+},
+,{
+    "uuid": "3f26c23a-885e-4a8f-a567-250608901e7a",
+    "title": "Nová aplikace DOMOV",
+    "message": "2024-12-01 - null",
+    "icon_url": "https://beta.insia.com/contacts/568794/profile/avatar/original?1724740218",
+    "target_url_ios": "https://apps.apple.com/no/app/domov/id6470658442",
+    "target_url_android": "https://play.google.com/store/apps/details?id=com.insia.domov",
+    "country_abbr": "CZ",
+    "date_start": "2024-12-01",
+    "date_end": null
+}
 ],
 "stk":[
 	{
