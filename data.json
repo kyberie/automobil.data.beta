@@ -120,28 +120,6 @@
     }
   ],	
 "banners":[
-	{
-		"uuid": "2125ca4d-f3b2-4ea4-b45d-52b8fe2d851a",
-		"title": "Nová aplikace DOMOV",
-		"message": "Kompletní přehled o vašich nemovitostech a domácnostech!",
-		"icon_url": "https://www.insia.cz/res/archive/20543/24987313.png",
-		"target_url_ios": "https://apps.apple.com/no/app/domov/id6470658442",
-		"target_url_android": "https://play.google.com/store/apps/details?id=com.insia.domov",
-		"country_abbr": "CZ",
-		"date_start": null,
-		"date_end": null
-	},
-	{
-		"uuid": "491eb36d-cfff-4070-9985-4f8161523ce2",
-		"title": "Nová aplikácia DOMOV",
-		"message": "Kompletný prehľad o vašich nehnuteľnostiach a domácnostiach!",
-		"icon_url": "https://www.insia.sk/res/archive/6235/24987314.png",
-		"target_url_ios": "https://apps.apple.com/no/app/domov/id6470658442",
-		"target_url_android": "https://play.google.com/store/apps/details?id=com.insia.domov",
-		"country_abbr": "SK",
-		"date_start": null,
-		"date_end": null
-	}
 ],
 "stk":[
 	{
