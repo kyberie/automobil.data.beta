@@ -6055,6 +6055,18 @@
 			}
 		},
 		{
+			"id": "666ecf0245b4902e6f72743f",
+			"name": "LAND CRUISER 250",
+			"order": 585,
+			"vehicle_type": "car",
+			"europ_assistance": {
+				"active": true
+			},
+			"insia": {
+				"active": true
+			}
+		},
+		{
 			"id": "5ac6a9bd45b490359bb12c99",
 			"name": "LAND CRUISER 70",
 			"order": 590,
