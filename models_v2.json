@@ -13753,7 +13753,7 @@
 			"order": 1640,
 			"vehicle_type": "car",
 			"europ_assistance": {
-				"active": false
+				"active": true
 			},
 			"insia": {
 				"active": true
